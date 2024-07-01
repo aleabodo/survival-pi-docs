@@ -12,7 +12,7 @@ const FeatureList = [
         your beautiful castle but don't want to  be restricted to a claimed plot?
         We are a <span style={{fontWeight:"bold"}}> whitelisted community </span> and trust each other. 
         Therefore, we <span style={{fontWeight:"bold"}}> don't need any plot claiming system </span> and 
-        you can build whereever you want, even Spawn itself! But for your ease of mind, our 
+        you can build whereever you want, even Spawn itself! But for your piece of mind, our 
         plugins <span style={{fontWeight:"bold"}}> can rollback ANY malicious interaction 
         in the world</span>.
         We never had any game-breaking incident that 

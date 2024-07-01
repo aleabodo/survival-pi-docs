@@ -115,11 +115,11 @@ const config = {
             items: [
               {
                 label: 'About the server',
-                to: '/docs/about',
+                to: '/docs/documentation/about',
               },
               {
                 label: 'Tutorials',
-                to: '/docs/about',
+                to: '/docs/documentation/about',
               }
             ],
           },
