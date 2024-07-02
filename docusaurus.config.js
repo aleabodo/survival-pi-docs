@@ -71,7 +71,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'documentationSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Wiki',
           },
           {
             type: 'docSidebar',
@@ -115,11 +115,11 @@ const config = {
             items: [
               {
                 label: 'About the server',
-                to: '/docs/documentation/about',
+                to: '/docs/wiki/about',
               },
               {
                 label: 'Tutorials',
-                to: '/docs/documentation/about',
+                to: '/docs/wiki/about',
               }
             ],
           },
