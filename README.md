@@ -5,7 +5,7 @@ This is the documention and blog website of the Minecraft server Survival-Pi. If
 ### Installation
 You need Node and npm for building this project. I recomment installing and managing it with nvm (https://github.com/nvm-sh/nvm):
 ```
-$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 nvm install node
 ```
 Initialize the project and install dependencies:
@@ -16,7 +16,7 @@ npm install
 ### Local Development
 
 ```
-$ npm start
+npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -24,7 +24,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ npm run build
+npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service or with `npm run serve`.
