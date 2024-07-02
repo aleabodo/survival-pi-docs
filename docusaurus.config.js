@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Survival-Pi',
-  tagline: 'Whitelisted Semi-Vanilla SMP',
+  tagline: 'Whitelisted Semi-Vanilla SMP focused on building, Redstone, and community.',
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here

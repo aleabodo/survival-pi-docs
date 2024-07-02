@@ -26,7 +26,7 @@ const FeatureList = [
     description: (
       <>
         We are a <span style={{fontWeight:"bold"}}> small community of friends</span> that enjoy
-        building epic based and creative Redstone contraptions.
+        <span style={{fontWeight:"bold"}}> building </span> epic based and creative <span style={{fontWeight:"bold"}}> Redstone </span> contraptions.
         <span style={{fontWeight:"bold"}}> Some of us play over 3 years together </span>
         on this server and we've become good friends through joint adventures and building 
         projects. We're happy to invite new players to the community too. If you're 
