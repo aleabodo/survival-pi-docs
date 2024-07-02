@@ -14,7 +14,7 @@ const FeatureList = [
         Therefore, we <span style={{fontWeight:"bold"}}> don't need any plot claiming system </span> and 
         you can build whereever you want, even Spawn itself! But for your piece of mind, our 
         plugins <span style={{fontWeight:"bold"}}> can rollback ANY malicious interaction 
-        in the world</span>.
+        with the world</span>.
         We never had any game-breaking incident that 
         our experienced admins couldn't resolve in over 3 years running the server!
       </>
