@@ -66,6 +66,6 @@ We had some really fun community events like two talent shows, one at Jame's cit
 
 ### Community projects
 
-We build a lot of community projects like the Anubis pyramid at spawn, which took literally years to complete. More than 6 people contributed with that project (although Rune and James did a lot of it). We also built a Nether highway and hub. Since most of the materials were difficult to get, we never able to finish the project completely but we still managed to build a large portion of it. We also helped each other out on various (tedious) projects like Venus and James who would add armor stand detailling to various interiors.
+We build a lot of community projects like the Anubis pyramid at spawn, which took literally years to complete. More than 6 people contributed with that project (although Rune and James did a lot of it). We also built a Nether highway and hub. Since most of the materials were difficult to get, we never able to finish the project completely but we still managed to build a large portion of it. We also helped each other out on like Venus and James who added armor stand detailling to various base interiors.
 
 ![Rune222 and BuildingBrute almost at the finish line of the Anubis pyramid](/img/season1/2022-05-02_20.34.44.png)
