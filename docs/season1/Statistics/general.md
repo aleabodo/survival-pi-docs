@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # General stats
 
 | Stat | Total | 1st | 2nd | 3d |

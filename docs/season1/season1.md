@@ -1,14 +1,19 @@
 ---
 sidebar_position: 1
+sidebar_label: Season 1
 ---
 
-# A Brief Recap
+# Survival-Pi Season 1
+
+![Spawn](/img/season1/2024-07-03_00.03.39.png)
 
 :::note
 
 This season was finished on June 30th 2024. World download is available for community members only.
 
 :::
+
+## A Brief Recap
 
 | Quick facts           |                                            |
 | --------------------- | ------------------------------------------ |
