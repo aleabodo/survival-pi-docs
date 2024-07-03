@@ -40,7 +40,7 @@ import TabItem from '@theme/TabItem';
 
 The dragon egg stored on the top platform was, according to accounts, the reason for the Egg War. Strange things happened, which resulted in cults worshipping the egg and others fighting against it. It is said that the egg got stolen multiple times from its platform. After one very sly theft, the egg was discovered completely encased with hundrets of chests that shielded. Weird indeed. But in the end, the egg ended up in Anubis Pyramid and will remain for eternity.  
 
-## Build process
+## Build Process
 
 Since we have sand dupers disabled on this server, we had to mine everything by hand. We mined a whole desert with [hundrets of shulkers](../Statistics/mined_blocks.md) for it. Since most of the outer shell of the pyramid is made from smooth sandstone, we had to burn it all. Therefore, we had to build a bamboo supersmelter for it. 
 
@@ -54,7 +54,7 @@ And *of course* there would be giant lava lakes and underwater caves... Clearing
 
 The idea was to fill this hole with layers of glass to make a void effect. The portals of the pyramid were going to be connected by bridges that vanish into the void. These glass layers was the primary reason why it took us so long (years) to finish this project. We needed 7.5 shulkers of black-stained glass for every layer. And to complete the void effect we needed 10 layers! Eventually we managed to finish it (thanks to Rune's commitment) by draining yet another desert. The furnace was burning at full blast (and broke several times in the process as usual). Below is a picture of the finished interior (the void effect works a lot better without shaders).
 
-## Pictures
+## Additional Pictures
 
 ![Spawn](/img/season1/2024-07-03_00.03.39.png)
 
