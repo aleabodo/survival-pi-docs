@@ -26,9 +26,10 @@ import TabItem from '@theme/TabItem';
     - Crabbiest
     - Kunais
     - Kiwitharat
+    - QuesiBoy
   </TabItem>
   <TabItem value="date" label="Date Finished">
-    < Rune insert here >
+    02/06/2024
   </TabItem>
 </Tabs>
 
