@@ -41,6 +41,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          editUrl:
+          'https://github.com/aleabodo/survival-pi-docs/tree/main'
         },
         blog: {
           showReadingTime: true
