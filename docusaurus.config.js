@@ -63,7 +63,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Survival-Pi SMP',
+        title: 'Survival-Pi',
         logo: {
           alt: 'Survival-Pi Logo',
           src: 'img/logo.png',
