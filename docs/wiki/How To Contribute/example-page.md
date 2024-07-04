@@ -12,7 +12,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     # Example base post
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
     <Tabs>
       <TabItem value="about" label="Description">
@@ -58,19 +58,17 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     You can add more pictures here if you have good ones. People love pictures! 🤩 Make sure to upload them to the right spot, adhering to the directory naming cheme as described in the [tutorial](./tutorial.md). Also remember to not include `/static` in the reference.
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
-
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
     ```
   </TabItem>
   <TabItem value="output" label="Output" default>
     # Example base post
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
     <Tabs>
       <TabItem value="about" label="Description">
@@ -116,12 +114,10 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     You can add more pictures here if you have good ones. People love pictures! 🤩 Make sure to upload them to the right spot, adhering to the directory naming cheme as described in the [tutorial](./tutorial.md). Also remember to not include `/static` in the reference.
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
 
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
-
-    ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
+    ![Pic](/img/placeholder.jpg)
   </TabItem>
 </Tabs>

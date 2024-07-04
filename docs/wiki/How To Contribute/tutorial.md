@@ -67,11 +67,10 @@ These are some of the most important terms you should know when working with Git
     :::note[Some footnotes on editing:]
     - You can format pages however you see fit, not limited to specific templates.
     - All pages of the seasons and the Wiki are in the `/docs/` directory. The sidebar of the website will follow that directory tree.
-    - Images are in `/static/img/`. If you add images, follow the directory tree: they are organized and named like the pages they accompany. Reference images without `/static`. For example:
+    - Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add the template image as below and send BuildingBrute your real images. He will handle the rest.
         ```markdown
-        ![Pic](/img/season1/bases/anubis_pyramid/anubis-wallpaper.png)
+        ![Pic](/img/placeholder.jpg)
         ```
-        If you're unsure how to do that, you can always just use that picture code above as placeholder and send BuildingBrute your pictures. He will replace them for you.
     :::
 
 2. **Commit Your Changes** \
