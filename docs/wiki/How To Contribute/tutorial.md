@@ -60,7 +60,7 @@ These are some of the most important terms you should know when working with Git
     ![Fork this repository](/img/wiki/fork-this-repository.png)
 
 1. **Edit the Page** \
-    Now you can edit the website's code. Most pages, including the Wiki and Season pages, use Markdown, a simple format you might know from note-taking apps. To learn more, check out [this markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/). To get started quickly, I recommend getting familiar with the existing text and checking out the [example page of a base](https://www.markdownguide.org/cheat-sheet) and the [corresponding code](https://www.markdownguide.org/cheat-sheet). 
+    Now you can edit the website's code. Most pages, including the Wiki and Season pages, use Markdown, a simple format you might know from note-taking apps. To learn more, check out [this markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/). To get started quickly, I recommend getting familiar with the existing text and checking out the [example page of a base](./example-page.md) and the [corresponding code](example-page-code.md). 
 
     :::note[Some footnotes on editing:]
     - You can format pages however you see fit, not limited to specific templates.
