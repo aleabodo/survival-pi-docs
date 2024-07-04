@@ -61,7 +61,7 @@ These are some of the most important terms you should know when working with Git
     Since you don't own this repository, GitHub will ask you to create a Fork. Follow the instructions. \
     ![Fork this repository](/img/wiki/fork-this-repository.png)
 
-1. **Edit the Page** \
+4. **Edit the Page** \
     Now you can edit the website's code. Most pages, including the Wiki and Season pages, use Markdown, a simple format you might know from note-taking apps. To learn more, check out [this markdown cheatsheet](pathname://https://www.markdownguide.org/cheat-sheet/). To get started quickly, I recommend getting familiar with the existing text and checking out the [example page of a base](./example-page.md) and the corresponding code. 
 
     :::note[Some footnotes on editing:]
@@ -74,15 +74,23 @@ These are some of the most important terms you should know when working with Git
     - When you create new files, make sure you don't include any whitespaces in the file name. Also, it needs to have the file ending `.md` standing for *markdown*. Please make sure you familiarize yourself with the directory structure to keep it organized.
     :::
 
-2. **Commit Your Changes** \
+5. **Commit Your Changes** \
     Click on `Commit changes...` to create a snapshot of your edits on your forked repository. Please make a meaningful commit messages. Avoid messages like "LOL" or "Changed something". Describe your changes briefly and clearly; this helps the reviewer understand your edits.
     
-3. **Create a Pull Request** \
+6. **Create a Pull Request** \
    Review your changes and click `Create pull request` to propose merging your commits into the main repository. \
-   ![Pullrequest](/img/wiki/pullrequest.png) \
+   ![Pullrequest](/img/wiki/pullrequest.png)
    :::info[Info]
-   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page. You can find your repository in your profile under `Your repositories`.
+   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page.
    :::
+
+:::warning[Important!]
+Before making subsequent commits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
+
+![Pullrequest](/img/wiki/sync.png)
+
+You can find your repository in your GitHub profile under `Your repositories`.
+:::
 
 
 ## The Advanced Method
