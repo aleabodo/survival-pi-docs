@@ -24,7 +24,7 @@ Here's the table of contents so you can navigate to the right section:
 
 <TOCInline toc={toc} />
 
-## The easy method {#easy}
+## The Easy Method
 
 ### Some terms
 
@@ -85,7 +85,7 @@ These are some of the most important terms you should know when working with Git
    :::
 
 
-## Advanced method {#advanced}
+## The Advanced Method
 
 :::info
 This section assumes you are familiar with Git and can clone a repository. If you're new to Git but want to learn, watch [this video](pathname://https://www.youtube.com/watch?v=mJ-qvsxPHpY) to get started.
