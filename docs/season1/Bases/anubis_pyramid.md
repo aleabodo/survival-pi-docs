@@ -3,7 +3,7 @@ import TabItem from '@theme/TabItem';
 
 # Anubis Pyramid
 
-![Anubis Pyramid](/img/season1/bases/anubis_pyramid/2024-07-03_00.05.30.png)
+![Anubis Pyramid](/img/season1/bases/anubis_pyramid/anubis-wallpaper.png)
 
 <Tabs>
   <TabItem value="about" label="Description">
