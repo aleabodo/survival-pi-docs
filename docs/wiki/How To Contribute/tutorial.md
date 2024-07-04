@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 # How to contribute
 
-This website is a community project for the community and by the community. It is fully open-source with the code being available at [GitHub](https://github.com/aleabodo/survival-pi-docs). It means that every member of the community can literally edit *anything* of the website and contribute to adding new information and posts to it. Obviously, this is as long as the submission adhers to the general theme of the website and doesn't break the it 😄. The operator of the website is BuildingBrute and will review every change to ensure that no malicious outsider can do damange and no breaking changes are introduced by accident.
+This website is a community project for the community and by the community. It is fully open-source with the code being available at [GitHub](pathname://https://github.com/aleabodo/survival-pi-docs). It means that every member of the community can literally edit *anything* of the website and contribute to adding new information and posts to it. Obviously, this is as long as the submission adhers to the general theme of the website and doesn't break the it 😄. The operator of the website is BuildingBrute and will review every change to ensure that no malicious outsider can do damange and no breaking changes are introduced by accident.
 
 In this tutorial, I will guide you on how to edit, change, and add information to this website. There are two sections based on your technical expertise: 
 
@@ -33,7 +33,7 @@ These are some of the most important terms you should know when working with Git
     Git is a powerful version control system that helps track changes to files and coordinate work on those files among multiple people. 
   </TabItem>
   <TabItem value="repo" label="Repository (Repo) 💾">
-    A repository is a storage space where this project lives. It contains all the files and the history of all changes ever made to them. Repositories can be local (on your computer) or remote (on a server like [GitHub](https://github.com/aleabodo/survival-pi-docs)).
+    A repository is a storage space where this project lives. It contains all the files and the history of all changes ever made to them. Repositories can be local (on your computer) or remote (on a server like [GitHub](pathname://https://github.com/aleabodo/survival-pi-docs)).
   </TabItem>
   <TabItem value="commit" label="Commit ✅">
     A commit is like a snapshot of your project at a specific point in time. Each commit contains information about what changes were made, who made them, and when. Think of it as saving your changes to a log book.
@@ -49,10 +49,10 @@ These are some of the most important terms you should know when working with Git
 ### Follow these steps to make your first Pull Request
 
 1. **Create a GitHub Account** \
-    [Create an account on GitHub](https://github.com/signup). Sign in with your new account.
+    [Create an account on GitHub](pathname://https://github.com/signup). Sign in with your new account.
 
 2. **Click on *Edit this page*** \
-    Visit any page you want to edit and scroll to the bottom. Click on the button `Edit this page`, redirecting you to the corresponding file on the [GitHub repository]((https://github.com/aleabodo/survival-pi-docs)). \
+    Visit any page you want to edit and scroll to the bottom. Click on the button `Edit this page`, redirecting you to the corresponding file on the [GitHub repository](pathname://https://github.com/aleabodo/survival-pi-docs). \
     ![Edit this page button](/img/wiki/edit-this-page.png)
 
 3. **Follow the instructions to fork the Repo** \
@@ -60,7 +60,7 @@ These are some of the most important terms you should know when working with Git
     ![Fork this repository](/img/wiki/fork-this-repository.png)
 
 1. **Edit the Page** \
-    Now you can edit the website's code. Most pages, including the Wiki and Season pages, use Markdown, a simple format you might know from note-taking apps. To learn more, check out [this markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/). To get started quickly, I recommend getting familiar with the existing text and checking out the [example page of a base](./example-page.md) and the [corresponding code](example-page-code.md). 
+    Now you can edit the website's code. Most pages, including the Wiki and Season pages, use Markdown, a simple format you might know from note-taking apps. To learn more, check out [this markdown cheatsheet](pathname://https://www.markdownguide.org/cheat-sheet/). To get started quickly, I recommend getting familiar with the existing text and checking out the [example page of a base](./example-page.md) and the [corresponding code](example-page-code.md). 
 
     :::note[Some footnotes on editing:]
     - You can format pages however you see fit, not limited to specific templates.
@@ -86,7 +86,7 @@ These are some of the most important terms you should know when working with Git
 ## Advanced method {#advanced}
 
 :::info
-This section assumes you are familiar with Git and can clone a repository. If you're new to Git but want to learn, watch [this video](https://www.youtube.com/watch?v=mJ-qvsxPHpY) to get started.
+This section assumes you are familiar with Git and can clone a repository. If you're new to Git but want to learn, watch [this video](pathname://https://www.youtube.com/watch?v=mJ-qvsxPHpY) to get started.
 :::
 
 
