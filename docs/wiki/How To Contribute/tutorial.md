@@ -85,7 +85,7 @@ These are some of the most important terms you should know when working with Git
    :::
 
 :::warning[Important!]
-Before making subsequent commits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
+Before making subsequent edits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
 
 ![Pullrequest](/img/wiki/sync.png)
 
