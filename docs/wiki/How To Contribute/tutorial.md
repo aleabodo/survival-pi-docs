@@ -71,8 +71,8 @@ These are some of the most important terms you should know when working with Git
         ```markdown
         ![Pic](/img/placeholder.jpg)
         ```
-    :::
     - When you create new files, make sure you don't include any whitespaces in the file name. Also, it needs to have the file ending `.md` standing for *markdown*. Please make sure you familiarize yourself with the directory structure to keep it organized.
+    :::
 
 2. **Commit Your Changes** \
     Click on `Commit changes...` to create a snapshot of your edits on your forked repository. Please make a meaningful commit messages. Avoid messages like "LOL" or "Changed something". Describe your changes briefly and clearly; this helps the reviewer understand your edits.
