@@ -35,7 +35,7 @@ import TabItem from '@theme/TabItem';
 
 ## Lore and Tales
 
-A long long time ago, There was an uncommon alliance between almost every nation in the world. You see the modorists just discovered their precious godly crystals and there was a rumour which spread all the way to the emperor. It said that the world had grown to violent and the god of death himself would put an end to it. For this The modorists made a proposal to built a shrine for the god which extended all the way to the depts of the Duat. The residents of the Blackstone castle, james' dessert empire and the Hasea village all agreed to help and complete this collosal project. When Anubis eventually came it seemed like he was pleased, but after he was gone it appeared he had left something behind. An egg...
+A long long time ago, There was an uncommon alliance between almost every nation in the world. You see the modorists just discovered their precious godly crystals and there was a rumour which spread all the way to the emperor. It said that the world had grown to violent and the god of death himself would put an end to it. For this The modorists made a proposal to built a shrine for the god which extended all the way to the depts of the Duat. The residents of the Blackstone castle, the Egyptian empire and the Hasea village all agreed to help and complete this collosal project. When Anubis eventually came it seemed like he was pleased, but after he was gone it appeared he had left something behind. An egg...
 
 ### The Egg War
 
