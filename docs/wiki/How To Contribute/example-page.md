@@ -56,10 +56,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Additional Pictures
 
-    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add the template image as below and send BuildingBrute your real images. He will handle the rest.
-    ```markdown
-    ![Pic](/img/placeholder.jpg)
-    ```
+    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add these template image and send BuildingBrute your real images. He will handle the rest.
 
     ![Pic](/img/placeholder.jpg)
 
@@ -115,10 +112,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Additional Pictures
 
-    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add the template image as below and send BuildingBrute your real images. He will handle the rest.
-    ```markdown
-    ![Pic](/img/placeholder.jpg)
-    ```
+    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add these template image and send BuildingBrute your real images. He will handle the rest.
 
     ![Pic](/img/placeholder.jpg)
 
