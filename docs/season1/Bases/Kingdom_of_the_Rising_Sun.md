@@ -3,7 +3,7 @@ import TabItem from '@theme/TabItem';
 
 # Kingdom of the Rising Sun
 
-!Image goes here: BASECOMPLETED
+![BASECOMPLETED](/img/season1/bases/kingdom_of_the_rising_sun/BASECOMPLETED.png)
 
 <Tabs>
   <TabItem value="about" label="Description">
@@ -38,10 +38,11 @@ Long ago there was harmony throughout all the lands of Survival-Pi and every nat
 
 ## Additional Pictures
 
-!Image goes here: mountaincityfinal
+![mountaincityfinal](/img/season1/bases/kingdom_of_the_rising_sun/mountaincityfinal.png)
 
-!Image goes here: topviewmain
+![topviewmain](/img/season1/bases/kingdom_of_the_rising_sun/topviewmain.png)
 
-!Image goes here: squidmanblur
+![squidmanblur](/img/season1/bases/kingdom_of_the_rising_sun/squidmanblur.png)
 
-!Image goes here: mybasebarebones
+![mybasebarebones](/img/season1/bases/kingdom_of_the_rising_sun/mybasebarebones.png)
+
