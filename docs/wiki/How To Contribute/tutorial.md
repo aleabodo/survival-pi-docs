@@ -16,7 +16,7 @@ In this tutorial, I will guide you on how to edit, change, and add information t
 1. **Easy Method** - For beginners, with simple steps to make edits.
 2. **Advanced Method** - For users familiar with Git, explaining how to install, build, and run the website locally for testing.
 
-Don't be intimidated; contributing is quite straightforward! Rune222 even figured it out before this tutorial was written 🤙.
+Don't be intimidated; contributing is quite straightforward! Rune222 even figured it out before I got the chance to write this tutorial 🤙.
 
 If you have questions, feel free to ask!
 
@@ -81,7 +81,7 @@ These are some of the most important terms you should know when working with Git
    Review your changes and click `Create pull request` to propose merging your commits into the main repository. \
    ![Pullrequest](/img/wiki/pullrequest.png) \
    :::info[Info]
-   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for one page. You can find your repository in your profile under `Your repositories`.
+   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page. You can find your repository in your profile under `Your repositories`.
    :::
 
 
