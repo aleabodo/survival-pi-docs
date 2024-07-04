@@ -23,11 +23,13 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Founding of the empire
+## Lore and Tales
+
+### Founding of the empire
 
 Once upon a time there was a village which contained a small group of people. They were too small to hold any real business in the world, so they were left alone. Untill one day magic crystals appeared out of nowhere. After a lot of "forced" labour they were able to harness their power and scientific progression became rapid, however they did always build in the same style as their culture had done for 500 years. Because of these crystals the village quickly became a well known empire. Almost every citizen of the new empire thought the crystals were a gift from their protecting goddes Modoray, for they named the empire after her, The Modorist Empire. 
 
-## Fall of the world
+### Fall of the world
 
 In the first centuries of it's existance the Modorist empire was well friended with the neighbouring cities, when there was a threat from the gods themselves which could mean the end of the world they were even the people who proposed the Anubis schrine. But once The Egg came they became frightened from everyone and everything. The rulers at that time made a decision which could never be undone. In their fear from the outside world they decided that it would be best that no one should know that the outside world even existed. Going outside the empire was from then on outlawed and anyone who even tried escape was killed on sight. After many centuries of people not going outside, was the fact that other nations existed, reduced to legends that only fools would believe. Only the royal guard was allowed to go outside under the disguise of exploration, however they were the only peolpe in the empire who knew what reality actually looked like. This was over 5000 years ago. 
   
