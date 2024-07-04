@@ -71,7 +71,7 @@ These are some of the most important terms you should know when working with Git
         ```markdown
         ![Pic](/img/season1/bases/anubis_pyramid/anubis-wallpaper.png)
         ```
-        When you look at the existing code, this will be more clear.
+        If you're unsure how to do that, you can always just use that picture code above as placeholder and send BuildingBrute your pictures. He will replace them for you.
     :::
 
 2. **Commit Your Changes** \
