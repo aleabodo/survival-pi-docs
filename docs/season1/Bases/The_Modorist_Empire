@@ -1,0 +1,43 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+# The Modorist empire
+
+![Inside view](/img/season1/bases/The_Modorist_Empire/<will_add_this_in_a_little>)
+
+<Tabs>
+  <TabItem value="about" label="Description">
+    The modorist empire was the personal base for TheRune222 and ImagineLegend.
+  </TabItem>
+  <TabItem value="coords" label="Coords" default>
+    | X     | Y     | Z     | 
+    | ----- | ----- | ----- |
+    | 451   | 64    | 591   |
+  </TabItem>
+  <TabItem value="ncooords" label="Nether Directions">
+    Green hallway, the red corridor.
+  </TabItem>
+  <TabItem value="builders" label="Builders">
+    - TheRune222
+    - imagineLegend    
+  </TabItem>
+</Tabs>
+
+## Lore and Tales
+
+<Will soon be added>
+  
+
+## Build Process
+-The original plan was for the base to only be the dome. However this was finished 2 years before the server ended so there was a change in plans. 
+-The houses were built first in the city, then it became boring to make the same type of building, so more extravogant buildings were contstructed.
+-Except for the dome which was designed in creative, all the buildings were created on the spot in survival. 
+
+
+## Additional Pictures
+
+![night view](/img/season1/<Just_a_moment>)
+
+![side view](/img/season1/bases/anubis_pyramid/<also_just_a_moment>)
+
+![water side](/img/season1/bases/anubis_pyramid/<one_extra_moment>)
