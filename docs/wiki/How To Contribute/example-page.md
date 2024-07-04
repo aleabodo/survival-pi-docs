@@ -30,7 +30,11 @@ import TabItem from '@theme/TabItem';
 
 ## Lore and Tales
 
-Some lore. Who doesn't like to write some lore 😃 *italic* **bold** __underline__. `Ever needed code too`?
+Some lore. Who doesn't like to write some lore 😃 *italic* **bold** ~line through~. `Ever needed code too`?
+
+:::info[Here is an info thing]
+Put some extra info here if you need
+:::
 
 ### A smaller headline
 
