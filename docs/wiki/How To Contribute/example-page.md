@@ -39,7 +39,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Lore and Tales
 
-    Some lore. Who doesn't like to write some lore 😃 *italic* **bold** __underline__. `Ever needed code too`?
+    Some lore. Who doesn't like to write some lore? 😃 *italic* **bold** __underline__. `Ever needed code too`?
 
     ### A smaller headline
 
@@ -52,11 +52,11 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Build Process
 
-    Maybe you can describe how you build it. What you enjoyed most. Or you just don't include this section at all or replace it with another. Your choice! 💯 Of course you can also complement your descriptions with pictures of your progression if you want to.
+    Maybe you can describe how you built it. What you enjoyed most. Or you just don't include this section at all or replace it with another. Your choice! 💯 Of course you can also complement your descriptions with pictures of your progression if you want to.
 
     ## Additional Pictures
 
-    You can add more pictures here if you have good ones. People love pictures! 🤩
+    You can add more pictures here if you have good ones. People love pictures! 🤩 Make sure to upload them to the right spot, adhering to the directory naming cheme as described in the [tutorial](./tutorial.md). Also remember to not include `/static` in the reference.
 
     ![Some picture description](/img/season1/2024-07-03_00.03.39.png)
 
