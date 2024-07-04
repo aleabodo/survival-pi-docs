@@ -1,6 +1,6 @@
 # Example base post code
 
-This is the exact code used for the [example page](./example-page.md). You can confirm this for yourself on the Github of course 🤗.
+This is the exact code used for the [example page](./example-page.md). You can confirm this for yourself on the [Github](https://github.com/aleabodo/survival-pi-docs/blob/main/docs/wiki/How%20To%20Contribute/example-page.md) of course 🤗.
 
 ```markdown
 import Tabs from '@theme/Tabs';
