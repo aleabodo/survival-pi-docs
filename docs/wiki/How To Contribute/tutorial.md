@@ -9,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 # How to contribute
 
-This website is a community project for the community and by the community. It is fully open-source with the code being available at [GitHub](pathname://https://github.com/aleabodo/survival-pi-docs). It means that every member of the community can literally edit *anything* of the website and contribute to adding new information and posts to it. Obviously, this is as long as the submission adhers to the general theme of the website and doesn't break the it 😄. The operator of the website is BuildingBrute and will review every change to ensure that no malicious outsider can do damange and no breaking changes are introduced by accident.
+This website is a community project for the community and by the community. It is fully open-source with the code being available at [GitHub](pathname://https://github.com/aleabodo/survival-pi-docs). It means that every member of the community can literally edit *anything* of the website and contribute to adding new information and posts to it.
 
 In this tutorial, I will guide you on how to edit, change, and add information to this website. There are two sections based on your technical expertise: 
 
