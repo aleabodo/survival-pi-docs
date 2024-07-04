@@ -106,12 +106,12 @@ You need Node and npm for building this project. I recomment installing and mana
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 nvm install node
 ```
+On windows you can install Node from [here](pathname://https://nodejs.org/en).
+
 Initialize the project and install dependencies:
 ```
 npm install
 ```
-
-On windows you can install Node from [here](pathname://https://nodejs.org/en).
 
 ### Local Development
 
