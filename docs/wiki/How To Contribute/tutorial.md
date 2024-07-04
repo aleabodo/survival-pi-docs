@@ -111,6 +111,8 @@ Initialize the project and install dependencies:
 npm install
 ```
 
+On windows you can install Node from [here](pathname://https://nodejs.org/en).
+
 ### Local Development
 
 ```
