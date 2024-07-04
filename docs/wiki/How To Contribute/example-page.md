@@ -56,7 +56,10 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Additional Pictures
 
-    You can add more pictures here if you have good ones. People love pictures! 🤩 Make sure to upload them to the right spot, adhering to the directory naming cheme as described in the [tutorial](./tutorial.md). Also remember to not include `/static` in the reference.
+    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add the template image as below and send BuildingBrute your real images. He will handle the rest.
+    ```markdown
+    ![Pic](/img/placeholder.jpg)
+    ```
 
     ![Pic](/img/placeholder.jpg)
 
@@ -112,7 +115,10 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     ## Additional Pictures
 
-    You can add more pictures here if you have good ones. People love pictures! 🤩 Make sure to upload them to the right spot, adhering to the directory naming cheme as described in the [tutorial](./tutorial.md). Also remember to not include `/static` in the reference.
+    You can add more pictures here if you have good ones. People love pictures! 🤩 Adding images is a little bit more involved since the GitHub website doesn't allow you to easily upload images. So if you want to add images to your page, just add the template image as below and send BuildingBrute your real images. He will handle the rest.
+    ```markdown
+    ![Pic](/img/placeholder.jpg)
+    ```
 
     ![Pic](/img/placeholder.jpg)
 
