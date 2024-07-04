@@ -16,7 +16,7 @@ In this tutorial, I will guide you on how to edit, change, and add information t
 1. **Easy Method** - For beginners, with simple steps to make edits.
 2. **Advanced Method** - For users familiar with Git, explaining how to install, build, and run the website locally for testing.
 
-Don't be intimidated; contributing is quite straightforward! Rune222 even figured it out before I got the chance to write this tutorial 🤙.
+Don't be intimidated; contributing is quite straightforward! TheRune222 even figured it out before I got the chance to write this tutorial 🤙.
 
 If you have questions, feel free to ask!
 
