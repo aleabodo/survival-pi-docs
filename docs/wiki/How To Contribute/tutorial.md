@@ -84,13 +84,13 @@ These are some of the most important terms you should know when working with Git
    You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page.
    :::
 
-:::warning[Important!]
-Before making subsequent edits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
+   :::warning[Important!]
+   Before making subsequent edits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
 
-![Pullrequest](/img/wiki/sync.png)
+   ![Pullrequest](/img/wiki/sync.png)
 
-You can find your repository in your GitHub profile under `Your repositories`.
-:::
+   You can find your repository in your GitHub profile under `Your repositories`.
+   :::
 
 
 ## The Advanced Method
