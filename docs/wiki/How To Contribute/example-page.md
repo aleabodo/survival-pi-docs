@@ -16,7 +16,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     <Tabs>
       <TabItem value="about" label="Description">
-        Here can go a short description of the base.
+        Here can go a description of the base.
       </TabItem>
       <TabItem value="coords" label="Coords" default>
         | X     | Y     | Z     | 
@@ -72,7 +72,7 @@ This is an example markdown code and the resulting page that it outputs. You swi
 
     <Tabs>
       <TabItem value="about" label="Description">
-        Here can go a short description of the base.
+        Here can go a description of the base.
       </TabItem>
       <TabItem value="coords" label="Coords" default>
         | X     | Y     | Z     | 
