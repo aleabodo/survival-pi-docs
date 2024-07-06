@@ -3,7 +3,7 @@ import TabItem from '@theme/TabItem';
 
 # Gondolin of the Hidden Vale
 
-![Pic](/img/placeholder.jpg)
+![Pic](/img/season1/bases/gondolin_of_the_hidden_vale/gondolinbarebones.png)
 
 <Tabs>
   <TabItem value="about" label="Description">
@@ -40,8 +40,8 @@ As the city comes directly from The Silmarillion, the lore comes from it as well
 
 ## Additional Pictures
 
-![Pic](/img/placeholder.jpg)
+![Pic](/img/season1/bases/gondolin_of_the_hidden_vale/streetpic.png)
 
-![Pic](/img/placeholder.jpg)
+![Pic](/img/season1/bases/gondolin_of_the_hidden_vale/marketpic.png)
 
-![Pic](/img/placeholder.jpg)
+![Pic](/img/season1/bases/gondolin_of_the_hidden_vale/throughtreepic.png)
