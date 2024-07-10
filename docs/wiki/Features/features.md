@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# Commands and Miscellaneous
+# Features
 
 - `/spawn`: Teleports you to Spawn.
 - `/home`: Teleports you to your home. Set your home with `/sethome`. There is a one hour cooldown on the command.
@@ -16,3 +12,4 @@ sidebar_position: 1
 - [Interactive Chat](./interactivechat.md).
 - [Invisible Itemframes](./invisible_itemframes.md).
 - [Chest Protection](./chestprotect.md).
+- [Official Modpack](./Modpack/official-modpack.md)
