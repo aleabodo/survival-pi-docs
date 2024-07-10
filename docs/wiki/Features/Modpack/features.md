@@ -1,6 +1,6 @@
 # Modpack Features
 
-- [Proximity Voicechat](./vc.md)
+- [Proximity Voicechat](../vc.md)
 - [Litematica](pathname://https://litematica.org/)
 - Make beacon beams disappear by placing a clear glass block on top of the beacon. Colored glass will still work as usual.
 - Entity Texture Features, which adds a lot of skin and ressource pack related features. For example, [you can make your skin glow or animate](pathname://https://github.com/Traben-0/Entity_Texture_Features/blob/ETF-Main/.github/README-assets/SKIN_GUIDE.md) (like blinking eyes).
