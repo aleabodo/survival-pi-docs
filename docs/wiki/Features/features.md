@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Features
 
 - `/spawn`: Teleports you to Spawn.

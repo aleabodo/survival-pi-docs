@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Modpack
 
 We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](../vc.md), which we use extensively, a lot easier for everybody.
