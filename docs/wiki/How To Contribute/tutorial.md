@@ -11,22 +11,7 @@ import TabItem from '@theme/TabItem';
 
 This website is a community project for the community and by the community. It is fully open-source with the code being available at [GitHub](pathname://https://github.com/aleabodo/survival-pi-docs). It means that every member of the community can literally edit *anything* of the website and contribute to adding new information and posts to it.
 
-In this tutorial, I will guide you on how to edit, change, and add information to this website. There are two sections based on your technical expertise: 
-
-1. **Easy Method** - For beginners, with simple steps to make edits.
-2. **Advanced Method** - For users familiar with Git, explaining how to install, build, and run the website locally for testing.
-
-Don't be intimidated; contributing is quite straightforward! TheRune222 even figured it out before I got the chance to write this tutorial 🤙.
-
-If you have questions, feel free to ask!
-
-Here's the table of contents so you can navigate to the right section:
-
-<TOCInline toc={toc} />
-
-## The Easy Method
-
-### Some terms
+## Some terms
 
 These are some of the most important terms you should know when working with Git. I will be using them, so I recommend to at least skim over them.
 
@@ -48,7 +33,7 @@ These are some of the most important terms you should know when working with Git
   </TabItem>
 </Tabs>
 
-### Follow these steps to make your first Pull Request
+## Follow these 5 steps to make your first edit
 
 1. **Create a GitHub Account** \
     [Create an account on GitHub](pathname://https://github.com/signup). Sign in with your new account.
@@ -71,73 +56,26 @@ These are some of the most important terms you should know when working with Git
         ```markdown
         ![Pic](/img/placeholder.jpg)
         ```
-    - When you create new files, make sure you don't include any whitespaces in the file name. Also, it needs to have the file ending `.md` standing for *markdown*. Please make sure you familiarize yourself with the directory structure to keep it organized.
+    - When you create new files (on the sidebar is a *+* button), make sure you don't include any whitespaces in the file name. Also, it needs to have the file ending `.md` standing for *markdown*. Please make sure you familiarize yourself with the directory structure to keep it organized.
     :::
 
 5. **Commit Your Changes** \
     Click on `Commit changes...` to create a snapshot of your edits on your forked repository. Please make a meaningful commit messages. Avoid messages like "LOL" or "Changed something". Describe your changes briefly and clearly; this helps the reviewer understand your edits.
     
 6. **Create a Pull Request** \
-   Review your changes and click `Create pull request` to propose merging your commits into the main repository. \
-   ![Pullrequest](/img/wiki/pullrequest.png)
-   :::info[Info]
-   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page.
-   :::
+  Review your changes and click `Create pull request` to propose merging your commits into the main repository. \
+  ![Pullrequest](/img/wiki/pullrequest.png)
 
-   :::warning[Important!]
-   Before making subsequent edits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
+--- 
 
-   ![Pullrequest](/img/wiki/sync.png)
+  :::info[Info]
+  You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page.
+  :::
 
-   You can find your repository in your GitHub profile under `Your repositories`.
-   :::
+  :::warning[Keep your repo in sync before making subsequent Pull Requests!]
+  Before making subsequent edits to your forked repository, you need to make sure that it's synced and up-to-date with the main repository, else you're editing old files. You can do that by clicking `Sync fork` on you repository's main page. You can see whether your fork is commits behind the main repository. You can also make PR from here. 
 
+  ![Pullrequest](/img/wiki/sync.png)
 
-## The Advanced Method
-
-:::info
-This section assumes you are familiar with Git and can clone a repository. If you're new to Git but want to learn, watch [this video](pathname://https://www.youtube.com/watch?v=mJ-qvsxPHpY) to get started.
-:::
-
-
-### Installation
-You need Node and npm for building this project. I recomment installing and managing it with nvm (https://github.com/nvm-sh/nvm):
-```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-nvm install node
-```
-On windows you can install Node from [here](pathname://https://nodejs.org/en).
-
-Initialize the project and install dependencies:
-```
-npm install
-```
-
-### Local Development
-
-```
-npm start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service or with `npm run serve`.
-
-
-:::danger[Please don't upload massive pictures!]
-
-Ensure images are at most 720p with some compression for quick loading speeds. On Linux, use these commands to reduce image size:
-
-```
-sudo apt-get install imagemagick pngquant
-
-find /path/to/your/directory -type f -name "*.png" -exec mogrify -resize 1280x720\> {} \; -exec pngquant --quality=80 --ext .png --force {} \;
-```
-
-:::
+  You can find your repository in your GitHub profile under `Your repositories`.
+  :::
