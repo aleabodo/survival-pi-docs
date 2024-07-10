@@ -16,4 +16,4 @@ sidebar_position: 2
 - [Interactive Chat](./interactivechat.md).
 - [Invisible Itemframes](./invisible_itemframes.md).
 - [Chest Protection](./chestprotect.md).
-- [Official Modpack](./Modpack/official-modpack.md)
+- [Official Modpack](./modpack.md)

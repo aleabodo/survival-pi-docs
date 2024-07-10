@@ -1,6 +1,6 @@
 # Modpack
 
-We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](../vc.md), which we use extensively, a lot easier for everybody.
+We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](./vc.md), which we use extensively, a lot easier for everybody.
 
 The modpack is not required to join the server but it is recommened to at least install the [Proximity Voicechat mod](pathname://https://modrinth.com/plugin/simple-voice-chat) as we all use it.
 
@@ -18,7 +18,7 @@ If you want to update the modpack simply click *Update* on the top-right of the 
 
 ## Modpack Features
 
-- [Proximity Voicechat](../vc.md)
+- [Proximity Voicechat](./vc.md)
 - [Litematica](pathname://https://litematica.org/)
 - Make beacon beams disappear by placing a clear glass block on top of the beacon. Colored glass will still work as usual.
 - Entity Texture Features, which adds a lot of skin and ressource pack related features. For example, [you can make your skin glow or animate](pathname://https://github.com/Traben-0/Entity_Texture_Features/blob/ETF-Main/.github/README-assets/SKIN_GUIDE.md) (like blinking eyes).
