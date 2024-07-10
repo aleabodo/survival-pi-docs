@@ -10,6 +10,10 @@ By default, all of your chests get protected as soon as you build them. You can 
 - `/chestprotect untrust PLAYER`: Enter untrust-mode. Now you can click a chest to untrust *PLAYER*. *PLAYER* can no longer access the chest.
 - `/chestprotect view`: Highlights all of your protectected chest with particles, so you can more easily find them. Run the command againn to disable the particles. 
 
+:::warning[Hoppers can't suck items from locked chests!]
+Make sure you unlock chests that you want to use in Redstone contraptions.
+:::
+
 ## Protection Settings
 By default, the lock- and unlock-mode will automatically disable after clicking a chest. You can configure to stay in that mode for locking or unlocking multiple chest. You can do that by going into the ChestProtect menu settings with `/chestprotect menu`. Then click on *Settings*. Set the first option *Persistent Lock/Unlock* to *enabled* by clicking on it. In this settings menu you can also disable autolocking and other things.
 
