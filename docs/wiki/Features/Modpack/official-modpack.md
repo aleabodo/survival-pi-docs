@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Official Modpack
 
-We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](./vc.md), which we use extensively, a lot easier for everybody.
+We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](../vc.md), which we use extensively, a lot easier for everybody.
 
 The modpack is not required to join the server but it is recommened to at least install the [Proximity Voicechat mod](pathname://https://modrinth.com/plugin/simple-voice-chat) as we all use it.
 
