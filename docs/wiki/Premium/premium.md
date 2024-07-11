@@ -47,4 +47,4 @@ The Tebex shop will ask you for your personal details when you proceed with your
 
 ### Can I upgrade my rank?
 
-If you're unsure which rank to get, you can always just go with the cheapest first and upgrade to the other ones later with no additional cost.
+If you're unsure which rank to get, you can always just go with the cheapest first and upgrade to the other ones later.
