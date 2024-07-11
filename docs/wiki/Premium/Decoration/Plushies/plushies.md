@@ -1,4 +1,4 @@
-# Minecraft Plushies
+# Plushies
 
 **Price**: 3.57 EUR
 

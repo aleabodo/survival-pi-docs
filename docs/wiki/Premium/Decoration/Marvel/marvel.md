@@ -1,4 +1,4 @@
-# Shrek Heads
+# Marvel Heads
 
 **Price**: 3.57 EUR
 

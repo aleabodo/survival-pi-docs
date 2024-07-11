@@ -1,4 +1,4 @@
-# Fast Food Plushies
+# Avatar Plushies
 
 **Price**: 3.57 EUR
 
