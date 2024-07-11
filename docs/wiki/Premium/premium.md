@@ -20,10 +20,6 @@ Going by our motto *For the community, by the community*, we have an optional do
 
 Consider donating. You get some nice cosmetics and a big Thank You from the community 😽
 
-:::note
-On the sidebar on the left you can explore a comprehensive documentation of all features and cosmetics you get when you buy a rank.
-:::
-
 ---
 
 ## Funds secured until...
@@ -35,6 +31,10 @@ On the sidebar on the left you can explore a comprehensive documentation of all 
   ]}
   monthlyCost={5.25}
 />
+
+:::note
+This date is automatically calculated based on the recent donations. You can view the most recent donations in the list on the Tebext store page.
+:::
 
 ---
 
