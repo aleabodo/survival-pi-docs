@@ -1,0 +1,36 @@
+# Egyptian
+
+**Price**: 3.21 EUR
+
+**Where?**: https://survival-pi.tebex.io/category/2150726
+
+**What?** With this package you get 5 of 24 different decorational heads.
+
+![28767](bff8cdbeeaf3db92e0576258416c4fdf70a56c98.png)
+![44984](e6a98ee6270348e499ca0097601ca061f1712124.png)
+![44307 ](52dfad5a5e131d8ecd8a257573b2837a88531548.png)
+![57589 ](21c5f86342f295d1f0488b1b802ea998e987fbc2.png)
+![48873 ](588cc8f5ab567ba971860d5248649a161e6bb340.png)
+![42403 ](6ccfbf8203ba22e408bec84ae116362194f866b4.png)
+![55624 ](e387107814dc8d441db30cf56f99639fd0af71df.png)
+![50995 ](b3f85972e527132044c7dd904909e41dbccd34f2.png)
+![43359 ](0b79a9e0a72e89bd4db757d8b9cc949169c33bfd.png)
+![47178 ](c8d12da3d0d065a0eae41e7a8e14ef2da6c62577.png)
+![3856 ](b6ae490afae08aac45132a463e803db6eca1256a.png)
+![50598 ](7bff2a41ebc539bc6acd4d4c039e5204a458b3e0.png)
+![1870 ](687bb0f59af30393b61585942d5ab1b1e0077595.png)
+![55625 ](620904a231998c349bb71337a4e79c9fee721895.png)
+![45660 ](382e4753075e0594f4c1b2e293d67b54c673ef87.png)
+![62128 ](c06c5b81422eda96b01becb869ce8a1f7486a819.png)
+![61440 ](0e8f4864c300771a811992932d8783ab9b4866e1.png)
+![57324 ](7b9f4ce3f66e20d145ae5c0515e9109567148ca5.png)
+![55389 ](8a095871ce73b729377f8037ba5b3c695e1b295d.png)
+![59851 ](1764897a187a3a987117bd51a87658358d5a8825.png)
+![21345 ](ccbbeaa73bce56323af2581beb0963155ca394c3.png)
+![58080 ](c50c9ad2cc00013490fb8d71ce9b6b75a9382b75.png)
+![21881 ](198c6f184fa903b6cdc56c24c74c7367dc1d9ec6.png)
+![62891 ](753006ad3e08cfb2898efea3cdb97dfaad59c0be.png)
+
+:::danger[Make space in your inventory!]
+Make sure you have at least **24** empty inventory slot before you buy this package!
+:::
