@@ -27,3 +27,17 @@ If you want to update the modpack simply click *Update* on the top-right of the 
 - Connected textures
 - Controller support
 - Minimap. If you think the Minimap is annoying, you can turn it of by heading into your settings: `ESC > Mods > Xaero's Minimap > Minimap:`
+
+## FAQ
+
+### I have a Mac and I have problems with the Modpack.
+
+Some of the mods might be incompatible with Mac. A known one (for now, might be fixed later) is Distant Horizons. You can remove the mod by going into the modpack settings and using the *Unlock* setting. Then, you can disable or remove the mod from the modpack while still being able to automatically update the modpack. The proximity voice chat often also doesn't work.
+
+### My voice chat doesn't work.
+
+If you're on Mac, this is a known problem. There are workarounds but I won't provide support for it because it's not easy to fix. Look it up on Google. If you're not on Mac, you probably still have push-to-talk on. You can disable it in the voicechat settings (press `v`). More info [here](./vc.md). You might also have the wrong microphone or headphone connected. You can also change that in the settings. If all of that doesn't work, try re-joining and ask your friend to also rejoin.
+
+### Do I need the modpack to play on the server?
+
+No, it's not mandatory, but recommended because it contains a proximity voice chat mod that we actively use in the game.
