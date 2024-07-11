@@ -33,7 +33,7 @@ Consider donating. You get some nice cosmetics and a big Thank You from the comm
 />
 
 :::note
-This date is automatically calculated based on the recent donations. You can view the most recent donations in the list on the Tebex store page.
+This date is automatically calculated based on the recent donations and the approximated monthly running cost of 5.25€. You can view the most recent donations in the list on the Tebex store page.
 :::
 
 ---
