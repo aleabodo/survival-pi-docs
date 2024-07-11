@@ -18,7 +18,7 @@ Going by our motto *For the community, by the community*, we have an optional do
     - [Decorational Heads](pathname://https://survival-pi.tebex.io/category/2150726)
     - [Limited Decorational Heads](pathname://https://survival-pi.tebex.io/category/limited-heads) (Here you can also get your own player head ***for free***)
 
-Consider donating. You get some nice cosmetics and a big Thank You from the community 😽
+Consider donating. You get some nice cosmetics (left sidebar) and a big Thank You from the community 😽
 
 ---
 
