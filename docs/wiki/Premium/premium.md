@@ -56,7 +56,7 @@ All ranks and cosmetics are life-time!
 
 ### Why is the donation website different from this one?
 
-I decided to not host the website and payment method myself and rather go with the trust service [Tebex](pagename://https://www.tebex.io/). It's a service that lots of servers use, including Hypixel. They handle all of the payment transactions and are also legally liable.
+I decided to not host the store website and payment method myself and rather go with the trusted service [Tebex](pagename://https://www.tebex.io/). It's a service that lots of servers use, including Hypixel. They handle all of the payment transactions and are also legally liable.
 
 ### Do I need to add my personal information?
 
