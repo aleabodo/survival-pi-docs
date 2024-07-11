@@ -3,6 +3,9 @@ sidebar_position: 3
 sidebar_label: Premium Features
 ---
 
+import DateFormatter from '@site/src/components/DateFormatter/dateFormatter.js';
+import FundingCalculator from '@site/src/components/FundingCalculator/fundingCalculator.js';
+
 # Donations and Cosmetics
 
 ## About Our Donation System
@@ -20,6 +23,20 @@ Consider donating. You get some nice cosmetics and a big Thank You from the comm
 :::note
 On the sidebar on the left you can explore a comprehensive documentation of all features and cosmetics you get when you buy a rank.
 :::
+
+---
+
+## Funds secured until...
+
+<!--- The first date is an initial date that I put in based on calculations that funding would end at August 28 but I don't have all of the previous transactions to put into the list. So I just added that "fake" transaction to go to Aug 28.-->
+<FundingCalculator
+  transactions={[
+    { date: '2024-06-31', amount: 10 }
+  ]}
+  monthlyCost={5.25}
+/>
+
+---
 
 ## FAQ
 
