@@ -7,8 +7,7 @@ By default, all of your chests get protected as soon as you build them. You can 
 - `/chestprotect lock`: Enter chest protection locking mode. Now click any of your chests to lock the it. 
 - `/chestprotect unlock`: Enter chest protection unlocking mode. Now click any of your chests to unlock the it. 
 - `/chestprotect trust PLAYER`: Enter trust-mode. Now you can click a chest to trust *PLAYER* to it. *PLAYER* will be able to access the chest.
-- `/chestprotect untrust PLAYER`: Enter untrust-mode. Now you can click a chest to untrust *PLAYER*. *PLAYER* can no longer access the chest.
-- `/chestprotect view`: Highlights all of your protectected chest with particles, so you can more easily find them. Run the command againn to disable the particles. 
+- `/chestprotect untrust PLAYER`: Enter untrust-mode. Now you can click a chest to untrust *PLAYER*. *PLAYER* can no longer access the chest. 
 
 :::warning[Hoppers can't suck items from locked chests!]
 Make sure you unlock chests that you want to use in Redstone contraptions.
