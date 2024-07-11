@@ -12,13 +12,13 @@ import FundingCalculator from '@site/src/components/FundingCalculator/fundingCal
 
 Going by our motto *For the community, by the community*, we have an optional donation system on this server to keep it running. Unlike other servers, it's not pay-to-win. Additionally, since the server is not profit oriented, we have pretty awesome cosmetics for comparably cheap. All money goes directly and only to keeping the server running, buying premium plugins, or upgrading the hardware! 
 
-- **Donation website**:: https://survival-pi.tebex.io/
+- **Donation website**: https://survival-pi.tebex.io/
     - [Buy Ranks](pathname://https://survival-pi.tebex.io/category/ranks)
     - [Upgrade Rank](pathname://https://survival-pi.tebex.io/category/rank-upgrades)
     - [Decorational Heads](pathname://https://survival-pi.tebex.io/category/2150726)
     - [Limited Decorational Heads](pathname://https://survival-pi.tebex.io/category/limited-heads) (Here you can also get your own player head ***for free***)
 
-Consider donating. You get some nice cosmetics (left sidebar) and a big Thank You from the community 😽
+Consider donating. You get some nice cosmetics and a big Thank You from the community 😽 Check the sidebar menu for all ranks and features you can get.
 
 ---
 
