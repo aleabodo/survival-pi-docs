@@ -4,7 +4,7 @@
 
 **Where?**: https://survival-pi.tebex.io/category/2150726
 
-**What?** With this package you get 5 of 23 different decorational heads.
+**What?** With this package you get 5 of 36 different decorational heads.
 
 ![48105 ](ba45c24d3078e3e06719247e4af520d7116d185a.jpg)
 ![47887 ](ace3085e1ae0d9efebf0d5bf6c60b6176a7d2c85.jpg)
@@ -29,7 +29,20 @@
 ![97313](56960c86657ab60dbbf721d346df10de.webp)
 ![96635](06fae88353ea974b0f064a1bc6223f86.webp)
 ![97255](48b91ed7f2690148cdbc5e201936e75e.webp)
+![2969](5c934363a7e2a73d4120f6a5c2664b29.webp)
+![18936](eb71960eb5809c7976698bb3eb4f734f.webp)
+![97305](759de5108be25567303a0e7c85e078c4.webp)
+![97258](6812ea2ffee7daf1b9c31e3f1bbb5c3f.webp)
+![97260](cc138af29c91d9563571979ce35f34c2.webp)
+![96616](b85ff1eddef19cf1b4d4f50c90e135e6.webp)
+![96953](0bcb37c558dfe58c8fe4efd58364c186.webp)
+![95984](bc2957d3c0c77e7313454462eb9d3393.webp)
+![92998](1d5374a604db680174fc52f0cee343dd.webp)
+![90879](c486e97d85d8db71f1154289e09ac027.webp)
+![90880](36a1a455ed38463211cb28f5a3c74090.webp)
+![90878](0d9d0addf0d54f946d3ef736d910be04.webp)
+![89503](94a70f7a3ba651a31f83a586c677b715.webp)
 
 :::danger[Make space in your inventory!]
-Make sure you have at least **23** empty inventory slot before you buy this package!
+Make sure you have at least **36** empty inventory slot before you buy this package!
 :::

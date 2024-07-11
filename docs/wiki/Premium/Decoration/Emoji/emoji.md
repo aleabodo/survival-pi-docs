@@ -37,6 +37,7 @@
 ![32161](4889943c9287ca5f2b1f376777a07133.webp)
 ![32183](2787376189f7dc0fd5caf51d8c2fbb5a.webp)
 ![35150](fc4f1baa48c4335a52d578e185667314.webp)
+![96605](23c584556bc1492ed18510f3b628a337.webp)
 
 :::danger[Make space in your inventory!]
 Make sure you have at least **31** empty inventory slot before you buy this package!
