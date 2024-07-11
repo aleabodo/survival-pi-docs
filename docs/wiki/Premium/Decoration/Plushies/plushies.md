@@ -1,6 +1,6 @@
 # Minecraft Plushies
 
-**Price**: 3.21 EUR
+**Price**: 3.57 EUR
 
 **Where?**: https://survival-pi.tebex.io/category/2150726
 
