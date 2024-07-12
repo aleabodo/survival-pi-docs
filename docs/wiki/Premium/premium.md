@@ -15,8 +15,8 @@ Going by our motto *For the community, by the community*, we have an optional do
 Consider donating. You get some nice cosmetics and a big Thank You from the community 😽 Check the sidebar menu for all ranks and features you can get.
 
 ### Store
-- [Ranks](Heads/heads.md)
-- [Decorational Heads](Ranks/ranks.md)
+- [Ranks](Ranks/ranks.md)
+- [Decorational Heads](Heads/heads.md)
 
 ---
 
