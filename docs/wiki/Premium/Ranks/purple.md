@@ -8,7 +8,7 @@ description: Chat emoji, colored text, and more.
 
 **Price**: 13.09 EUR
 
-**Where?**: https://survival-pi.tebex.io/category/ranks
+**Buy**: https://survival-pi.tebex.io/category/ranks
 
 **What?**:
 - All features of the [Gold Rank](gold.md)!
