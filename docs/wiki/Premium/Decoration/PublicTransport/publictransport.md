@@ -4,7 +4,7 @@
 
 **Where?**: https://survival-pi.tebex.io/category/2150726
 
-**What?** With this package you get 5 of 36 different decorational heads.
+**What?** With this package you get 5 of 30 different decorational heads.
 
 ![40167](2576e3aea553fe27f8b6d478bf475f8a.webp)
 ![40222](85013bb7fc447e05e1f2bf08a8192b9a.webp)
@@ -38,5 +38,5 @@
 ![14871](edbec94e93981f852d3dd4c8bbbd0ba6.webp)
 
 :::danger[Make space in your inventory!]
-Make sure you have at least **36** empty inventory slot before you buy this package!
+Make sure you have at least **30** empty inventory slot before you buy this package!
 :::
