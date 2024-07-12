@@ -8,7 +8,7 @@ description: Additional homes, animated map art, and more.
 
 **Price**: 8.33 EUR
 
-**Where?**: https://survival-pi.tebex.io/category/ranks
+**Buy**: https://survival-pi.tebex.io/category/ranks
 
 **What?**:
 - All features of the [Gold Rank](gold.md)!

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **Price**: 4.76 EUR
 
-**Where?**: https://survival-pi.tebex.io/category/2150726
+**Buy**: https://survival-pi.tebex.io/category/2150726
 
 **What?** With this package you get 64 of 35 different decorational heads.
 

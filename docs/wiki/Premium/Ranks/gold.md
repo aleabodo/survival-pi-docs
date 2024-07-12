@@ -8,7 +8,7 @@ description: Chestsort, custom prefix, and more.
 
 **Price**: 3.57 EUR
 
-**Where?**: https://survival-pi.tebex.io/category/ranks
+**Buy**: https://survival-pi.tebex.io/category/ranks
 
 **What?**:
 - In addition to sitting you can also lay and crawl with `/lay` and `/crawl`.
