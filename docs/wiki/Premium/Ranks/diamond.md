@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Additional homes, animated map art, and more.
 ---
 
 # Diamond

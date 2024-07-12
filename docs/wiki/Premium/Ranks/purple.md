@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Chat emoji, colored text, and more.
 ---
 
 # Purple

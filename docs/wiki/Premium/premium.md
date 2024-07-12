@@ -12,13 +12,11 @@ import FundingCalculator from '@site/src/components/FundingCalculator/fundingCal
 
 Going by our motto *For the community, by the community*, we have an optional donation system on this server to keep it running. Unlike other servers, it's not pay-to-win. Additionally, since the server is not profit oriented, we have pretty awesome cosmetics for comparably cheap. All money goes directly and only to keeping the server running, buying premium plugins, or upgrading the hardware! 
 
-- **Donation website**: https://survival-pi.tebex.io/
-    - [Buy Ranks](pathname://https://survival-pi.tebex.io/category/ranks)
-    - [Upgrade Rank](pathname://https://survival-pi.tebex.io/category/rank-upgrades)
-    - [Decorational Heads](pathname://https://survival-pi.tebex.io/category/2150726)
-    - [Limited Decorational Heads](pathname://https://survival-pi.tebex.io/category/limited-heads) (Here you can also get your own player head ***for free***)
-
 Consider donating. You get some nice cosmetics and a big Thank You from the community 😽 Check the sidebar menu for all ranks and features you can get.
+
+### Store
+- [Ranks](Heads/heads.md)
+- [Decorational Heads](Ranks/ranks.md)
 
 ---
 
@@ -56,7 +54,7 @@ All ranks and cosmetics are life-time!
 
 ### Why is the donation website different from this one?
 
-I decided to not host the store website and payment method myself and rather go with the trusted service [Tebex](pagename://https://www.tebex.io/). It's a service that lots of servers use, including Hypixel. They handle all of the payment transactions and are also legally liable.
+I decided to not host the store website and payment method myself and rather go with the trusted service [Tebex](pagename://https://www.tebex.io/). It's a service that lots of servers use, including Hypixel. They handle all of the payment transactions and are also legally liable. The donation website where you buy the actual packages is https://survival-pi.tebex.io.
 
 ### Do I need to add my personal information?
 

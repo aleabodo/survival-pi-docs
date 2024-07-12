@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Chestsort, custom prefix, and more.
 ---
 
 # Gold 
