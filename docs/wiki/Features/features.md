@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # Features
 
+- `/server`: Lets you switch between the SMP and the Creative server. Simply click on the server in chat.
 - `/spawn`: Teleports you to Spawn.
 - `/home`: Teleports you to your home. Set your home with `/sethome`. There is a one hour cooldown on the command.
 - `/s`: Survival-friendly Spectator mode. You cannot pass through blocks, use it for x-ray, and it doesn't allow you to leave a certain radius.
@@ -14,6 +15,7 @@ sidebar_position: 2
 - **Riding player**: You can ride on the back of a player by right-clicking them with your empty fist.
 - **Custom music discs**: We have custom music discs collectibles that you can win from the vote crate (vote with `/vote`). In order to hear the custom music, you need to have the [voice chat mod](./vc.md) enabled. You can adjust the volume of the music discs in the voice chat settings (`v`).
 - [Proximity Voicechat](./vc.md)
+- [Raknetify](./raknetify.md)
 - [Amor Stand Tool](./ast.md).
 - [Interactive Chat](./interactivechat.md).
 - [Invisible Itemframes](./invisible_itemframes.md).
