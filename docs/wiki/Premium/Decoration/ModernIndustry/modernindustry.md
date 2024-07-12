@@ -1,4 +1,4 @@
-# Modern Industry
+# Industry
 
 **Price**: 3.57 EUR
 
