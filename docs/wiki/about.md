@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Spawn](/img/season1/2024-07-03_00.03.39.png)
+
 # About
 
 :::info
@@ -26,7 +28,9 @@ We build beautiful bases and massive community mega project. We also have an act
 | Community-managed Spawn and economy | ✅ |
 | Creative Server with World Edit | ✅ |
 | World download | ✅ |
+| Dynmap | ✅ |
 | Armor stand tools | ✅ |
+| Website accepting contributions | Contribute [here](./Contribute/tutorial.md) |
 | Specs | Intel i3-10100, 500 GB M.2 NVMe SSD, 32 GB RAM, 1000 Mbit/s internet |
 
 ## How to apply
