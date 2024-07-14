@@ -25,7 +25,8 @@ Consider donating. You get some nice cosmetics and a big Thank You from the comm
 <!--- The first date is an initial date that I put in based on calculations that funding would end at August 28 but I don't have all of the previous transactions to put into the list. So I just added that "fake" transaction to go to Aug 28.-->
 <FundingCalculator
   transactions={[
-    { date: '2024-06-31', amount: 10 }
+    { date: '2024-06-31', amount: 10 },
+    { date: '2024-07-14', amount: 17.85}
   ]}
   monthlyCost={5.25}
 />
