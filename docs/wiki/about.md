@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-![Spawn](/img/season1/2024-07-03_00.03.39.png)
-
 # About
+
+![Spawn](/img/season1/2024-07-03_00.03.39.png)
 
 :::info
 If you're just here to join the Creative plots server you can join without applying! It's public! The IP is `survival-pi.com`.
