@@ -12,7 +12,9 @@ If you're just here to join the Creative plots server you can join without apply
 
 We are a friendly and active community of mostly young adults and teenager that enjoy playing Minecraft after a tiring day at work or school. We like to keep things as Vanilla as possible while also having some extra Vanilla-friendly features to complement the experience. 
 
-We build beautiful bases and massive community mega project. We also have an active community-managed market at Spawn. You are creative? You join building and meeting new friends? Feel free to join our community. You can apply on our [Discord](pathname://https://discord.gg/WKAtDzEu24) with the application form below. If you decide to apply, you can include the word *stardust* in your application, so we know that you checked out this website before applying 😊
+We build beautiful bases and massive community mega project. We also have an active community-managed market at Spawn. You are creative? You enjoy building and meeting new friends? Feel free to join our community. You can apply on our [Discord](pathname://https://discord.gg/WKAtDzEu24) with the application form below. If you decide to apply, you can include the word *stardust* in your application, so we know that you checked out this website before applying 😊
+
+If you want to learn more about the features this server has, check out the [Features Page](./Features/features.md) on this wiki.
 
 ## At a Glance
 
@@ -20,7 +22,7 @@ We build beautiful bases and massive community mega project. We also have an act
 |---|---|
 | IP | `survival-pi.com` |
 | Version | 1.21 | 
-| Type | Vanilla-like Building and Redstone |
+| Type | Vanilla-like, Building and Redstone |
 | Since | 2020 |
 | Latest Season | [Season 2](../season2/season2.md)
 | Proximity Voicechat | ✅ |
@@ -30,6 +32,7 @@ We build beautiful bases and massive community mega project. We also have an act
 | World download | ✅ |
 | Dynmap | ✅ |
 | Armor stand tools | ✅ |
+| PvP | Toggleable |
 | Website accepting contributions | Contribute [here](./Contribute/tutorial.md) |
 | Specs | Intel i3-10100, 500 GB M.2 NVMe SSD, 32 GB RAM, 1000 Mbit/s internet |
 
