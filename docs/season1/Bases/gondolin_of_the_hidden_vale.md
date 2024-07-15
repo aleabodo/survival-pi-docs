@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="coords" label="Coords" default>
     | X     | Y     | Z     | 
     | ----- | ----- | ----- |
-    |-11500 | 120    | 5500  |
+    |--11485 | 128 | 5650  |
   </TabItem>
   <TabItem value="ncooords" label="Nether Directions">
   Follow the yellow path in the nether until you get to x = -1430, and then take the 2x1 path that branches off from the left for 700 blocks until you reach a portal.
