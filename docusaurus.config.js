@@ -88,19 +88,24 @@ const config = {
             label: 'Season 2',
           },
           {
+            type: 'dropdown',
+            label: 'Dynmap',
+            position: 'left',
+            items: [
+              {
+                to: '/dynmap_smp',
+                label: 'SMP'
+              },
+              {
+                to: '/dynmap_creative',
+                label: 'Creative'
+              }
+            ],
+          },
+          {
             href: 'https://survival-pi.tebex.io/',
             label: 'Donate',
             position: 'right',
-          },
-          {
-            href: 'https://map.survival-pi.com/',
-            label: 'Map:SMP',
-            position: 'left',
-          },
-          {
-            href: 'https://cmap.survival-pi.com/',
-            label: 'Map:Creative',
-            position: 'left',
           },
           {
             href: 'https://github.com/aleabodo/survival-pi-docs',
