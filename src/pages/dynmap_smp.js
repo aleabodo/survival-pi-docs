@@ -13,7 +13,7 @@ export default function Hello() {
           alignItems: 'center',
           height: 'calc(100vh - 60px)',
           fontSize: '20px',
-          backgroundColor: 'pink'
+          backgroundColor: 'black'
         }}>
          <iframe src="https://map.survival-pi.com" height="100%" width="100%"></iframe> 
       </div>
