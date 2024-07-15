@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
   <TabItem value="coords" label="Coords" default>
     | X     | Y     | Z     | 
     | ----- | ----- | ----- |
-    | ?  | ?    | ? |
+    | -648    | 73    | -16 |
   </TabItem>
   <TabItem value="ncooords" label="Nether Directions">
     -
