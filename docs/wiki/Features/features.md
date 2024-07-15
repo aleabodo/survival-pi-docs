@@ -17,8 +17,8 @@ sidebar_position: 2
 - [Creative Server](./creative.md)
 - [Proximity Voicechat](./vc.md)
 - [Raknetify](./raknetify.md)
-- [Amor Stand Tool](./ast.md).
-- [Interactive Chat](./interactivechat.md).
-- [Invisible Itemframes](./invisible_itemframes.md).
-- [Chest Protection](./chestprotect.md).
+- [Amor Stand Tool](./ast.md)
+- [Interactive Chat](./interactivechat.md)
+- [Invisible Itemframes](./invisible_itemframes.md)
+- [Chest Protection](./chestprotect.md)
 - [Official Modpack](./modpack.md)

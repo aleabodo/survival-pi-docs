@@ -6,6 +6,7 @@ There are some feautes other than `/` commands that you can use in chat. Below i
 - `[inv]` - Show your Inventory in the chat.
 - `[ender]` - Show your Ender Chest in the chat.
 - `[website]`: Official website.
+- `[map]`: Dynamp.
 - `[donate]`: Displays the link to the donation website.
 - `[pos]`: Shows your current position.
 - `[ping]`: Shows your current ping.
