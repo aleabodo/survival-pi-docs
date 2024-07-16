@@ -27,6 +27,7 @@ Consider donating. You get some nice cosmetics and a big Thank You from the comm
   transactions={[
     { date: '2024-06-31', amount: 10 },
     { date: '2024-07-14', amount: 17.85}
+    { date: '2024-07-16', amount: 17.85}
   ]}
   monthlyCost={5.25}
 />
