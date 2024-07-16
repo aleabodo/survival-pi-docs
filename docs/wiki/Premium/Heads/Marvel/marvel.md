@@ -1,6 +1,6 @@
 # Marvel Heads
 
-**Price**: 3.57 EUR
+**Price**: 3 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/2150726
 

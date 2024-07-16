@@ -6,7 +6,7 @@ description: Chat emoji, colored text, and more.
 # Purple
 ![11523](9e3956d771f579d5cbe17fca66a55e313bfdb0f2.jpg)
 
-**Price**: 13.09 EUR
+**Price**: 11 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/ranks
 

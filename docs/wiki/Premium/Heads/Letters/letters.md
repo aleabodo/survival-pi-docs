@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Letters
 
-**Price**: 4.76 EUR
+**Price**: 4 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/2150726
 

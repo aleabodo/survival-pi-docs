@@ -6,7 +6,7 @@ description: Chestsort, custom prefix, and more.
 # Gold 
 ![11519](57b0784471b8a6cf409e49f5dce31bfcf1a3aa81.jpg)
 
-**Price**: 3.57 EUR
+**Price**: 3 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/ranks
 

@@ -6,7 +6,7 @@ description: Disguise and more.
 # Devil
 ![1579](c3f42f9ecc6759e969b7f4e6c3d3ae551aacef48.png)
 
-**Price**: 17.85 EUR
+**Price**: 15 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/ranks
 

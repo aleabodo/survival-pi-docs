@@ -6,7 +6,7 @@ description: Additional homes, animated map art, and more.
 # Diamond
 ![11520](a20583f19a03490c1efa4506a593985e948ec25c.jpg)
 
-**Price**: 8.33 EUR
+**Price**: 7 EUR + Salestax
 
 **Buy**: https://survival-pi.tebex.io/category/ranks
 
