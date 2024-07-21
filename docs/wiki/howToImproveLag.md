@@ -9,7 +9,6 @@ Below are a few things that you can do to improve server lag without having any 
 ## Disable villager AI
 :::danger[High Impact]
 :::
-
 <details>
 <summary>Details</summary>
 Villagers often contribute to 60-80% of the entity lag on a server. That's because their AI is very badly implemented in Minecraft. Every other game tick they will compute complex calculations to find their nearest village center, find their workbench, find other villagers to talk to, and so on. Please disable their AI if you only need them for trading.
@@ -20,7 +19,7 @@ Villagers often contribute to 60-80% of the entity lag on a server. That's becau
 3. Put a magma block underneath the lectern.
 
 ## Optimize hoppers
-:::warning[Medium Impact]
+:::danger[High Impact]
 :::
 <details>
 <summary>Details</summary>
@@ -57,7 +56,7 @@ Armor stands have gravity by default and can be moved by water and other physics
 4. Click the ghast tear to toggle the gravity.
 
 ## Avoid building many farms at one spot
-:::warning[Medium Impact]
+:::info[Low Impact]
 :::
 <details>
 <summary>Details</summary>
