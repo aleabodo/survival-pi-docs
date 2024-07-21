@@ -14,7 +14,7 @@ sidebar_position: 2
 - **Sitting**: Right-click with your empty fist on any stair or slab to sit on it. Press *SHIFT* to stand up again.
 - **Riding player**: You can ride on the back of a player by right-clicking them with your empty fist.
 - **Custom music discs**: We have custom music discs collectibles that you can win from the vote crate (vote with `/vote`). In order to hear the custom music, you need to have the [voice chat mod](./vc.md) enabled. You can adjust the volume of the music discs in the voice chat settings (`v`).
-- [Creative Server](./creative.md)
+- [Creative Server](../creative.md)
 - [Proximity Voicechat](./vc.md)
 - [Raknetify](./raknetify.md)
 - [Amor Stand Tool](./ast.md)
