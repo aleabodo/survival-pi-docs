@@ -43,18 +43,8 @@ When a light source is added, removed, or changes state (e.g., turning on a reds
     - Use as little Redstone wire as possible (observers are often more efficient)
     - Light up the area around the contraption! If the light level is above 7 at the Redstone (which is the light level of powered Redstone) then the light level changing algorithm won't be triggered.
 
-## Avoid building many farms at one spot
-:::warning[Medium Impact]
-:::
-<details>
-<summary>Details</summary>
-If all of your farms are at one spot they are all being loaded at the same time (even if you don't need them) they use up server performance. Some players want to build all of their farms at their base and also build a massive storage system. This is a really bad idea and if the server lags, this will make your farms less efficient aswell.
-</details>
-
-- Build **multiple** farm districts for your farms. Only have a selective set of farms at your base.
-
 ## Turn off gravity of decorational armor stands
-:::info[Low Impact]
+:::warning[Medium Impact]
 :::
 <details>
 <summary>Details</summary>
@@ -65,6 +55,16 @@ Armor stands have gravity by default and can be moved by water and other physics
 2. Scroll with your mousewheel to select the nether star.
 3. Right-Click
 4. Click the ghast tear to toggle the gravity.
+
+## Avoid building many farms at one spot
+:::warning[Medium Impact]
+:::
+<details>
+<summary>Details</summary>
+If all of your farms are at one spot they are all being loaded at the same time (even if you don't need them) they use up server performance. Some players want to build all of their farms at their base and also build a massive storage system. This is a really bad idea and if the server lags, this will make your farms less efficient aswell.
+</details>
+
+- Build **multiple** farm districts for your farms. Only have a selective set of farms at your base.
 
 ## Avoid having too many entities in your base
 :::info[Low Impact]
