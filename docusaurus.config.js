@@ -62,7 +62,7 @@ const config = {
         appId: '54SN3WDSZ2',
   
         // Public API key: it is safe to commit it
-        apiKey: 'f49fdbcce26f550ccb8851d461caa100',
+        apiKey: 'ea64f7234545abe12373c633bc9ffc33',
   
         indexName: 'survival-pi',
   
