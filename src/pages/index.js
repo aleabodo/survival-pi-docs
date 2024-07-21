@@ -16,12 +16,18 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <div className={styles.buttons} style={{
+          display: 'flex',
+          flexWrap: 'wrap',
+          gap: '1rem',
+          gap: '3rem', 
+          justifyContent: 'center',
+        }}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/wiki/about">
             About the server ⛏️
-          </Link> &emsp;&emsp;
+          </Link>
           <Link
             className="button button--secondary button--lg"
             to="https://discord.gg/dTWRHbkfvV">
