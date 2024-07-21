@@ -29,13 +29,17 @@ You can easily save schematics (`.schem`) files from your builds.
 3. Run `//download`
 4. Follow the instructions in chat and download the schematic from the linked website.
 
-### Load Schematic
+### Upload Schematic
 
 1. Visit https://athion.net/fawe/
 2. Upload the schematic to the site.
 3. Copy the command from the website.
 4. Paste it into the game chat.
 5. Run `//paste` or `//paste -a` to paste the loaded schematic.
+
+:::warning[You cannot upload .litematic files!]
+The Litematica mod uses a unique schematic file that no other mod uses, including World Edit. You can convert the .litematic file to the .schem file that World Edit understands with the [Lite2Edit](pathname://https://github.com/GoldenDelicios/Lite2Edit/releases) tool. Learn more on their [documentation](pathname://https://github.com/GoldenDelicios/Lite2Edit).
+::: 
 
 ## Using World Edit
 

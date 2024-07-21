@@ -7,6 +7,6 @@ On this server you can modify armor stands to a great extent. You can move it, r
 3. This GUI menu lets you modify everything about the armor stand. Some features, like spawning, are disabled to fit in better with the Survival gameplay. I recommend watching [this tutorial video (8:30)](pathname://https://youtu.be/x0a11Dpc4Ng?si=DFgwVKvJ2jpDZk-r&t=514) to learn how to use the feature.
 4. When you're done modifying run `/ast` again to close the menu. 
 
-:::info[Tip]
+:::tip
 Make sure to make it invulnerable after you're done making your character if you don't want players to accidentally punch it. 
 :::

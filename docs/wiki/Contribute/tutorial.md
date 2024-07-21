@@ -68,7 +68,7 @@ These are some of the most important terms you should know when working with Git
 
 --- 
 
-  :::info[Info]
+  :::tip
   You can make multiple commits on your account's forked repository before making a pull request. This is especially useful if you need to add multiple files like pictures for a page.
   :::
 
