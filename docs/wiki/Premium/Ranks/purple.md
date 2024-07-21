@@ -15,6 +15,7 @@ description: Chat emoji, colored text, and more.
 - All features of the [Diamond Rank](diamond.md)!
 - Get a light purple prefix with your own customizable text. For example: "[YourPrefix] YourUsername > message".
 - Use color codes in your messages. You can use colors from `&0` to `&9` and `&a` to `&f`. You can do styling with `&k`, `&l`, `&m`, `&n` and `&o`. Reset the styling and color with `&r`. Example: `&4&ltext` will send <span style={{color: 'red'}}>**text**</span>.
+
     ![alt text](a64734336ca8e1aa260faa5508be95aafcaf05eb.png)
 - `/nick YourNickName` to set a nickname for yourself. The nickname will show in chat instead of your real username. You can use all color codes and miscellaneous codes in it aswell.
 - `/emoji` to display a list of all emojis. You can use emojis in chats, books and on signs.
