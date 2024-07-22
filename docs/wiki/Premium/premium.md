@@ -28,8 +28,8 @@ Consider donating. You get some nice cosmetics and a big Thank You from the comm
     { date: '2024-06-31', amount: 10 },
     { date: '2024-07-14', amount: 13.30},
     { date: '2024-07-16', amount: 13.60},
-    { date: '2024-07-16', amount: 13.44}
-
+    { date: '2024-07-16', amount: 13.44},
+    { date: '2024-07-22', amount: 13.27}
   ]}
   monthlyCost={5.25}
 />
