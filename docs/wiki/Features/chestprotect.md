@@ -4,8 +4,8 @@ We use a plugin called `ChestProtect` to protect chests and barrels. We have a r
 
 By default, all of your chests get protected as soon as you build them. You can unprotect the chests, add friends to them, add friends to the default protection, or disable this behavior alltogether if you wish to. Below is a list of commands that help you do these thing.
 
-- `/chestprotect lock`: Enter chest protection locking mode. Now click any of your chests to lock the it. 
-- `/chestprotect unlock`: Enter chest protection unlocking mode. Now click any of your chests to unlock the it. 
+- `/lock`: Enter chest protection locking mode. Now click any of your chests to lock the it. 
+- `/unlock`: Enter chest protection unlocking mode. Now click any of your chests to unlock the it. 
 - `/chestprotect trust PLAYER`: Enter trust-mode. Now you can click a chest to trust *PLAYER* to it. *PLAYER* will be able to access the chest.
 - `/chestprotect untrust PLAYER`: Enter untrust-mode. Now you can click a chest to untrust *PLAYER*. *PLAYER* can no longer access the chest. 
 
