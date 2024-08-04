@@ -21,6 +21,7 @@ If you want to update the modpack simply click *Update* on the top-right of the 
 - [Proximity Voicechat](./vc.md)
 - Improve your ping with [Raknet](./raknetify.md)
 - [Litematica](pathname://https://litematica.org/)
+- View the lightlevel by pressing `f8`. Configure it with `f7`. Orange means mobs can spawn at night. Red means mobs can always spawn. 
 - Make beacon beams disappear by placing a clear glass block on top of the beacon. Colored glass will still work as usual.
 - Entity Texture Features, which adds a lot of skin and ressource pack related features. For example, [you can make your skin glow or animate](pathname://https://github.com/Traben-0/Entity_Texture_Features/blob/ETF-Main/.github/README-assets/SKIN_GUIDE.md) (like blinking eyes).
 - Tons of performance mods

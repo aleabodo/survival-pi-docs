@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # About
 
-![Spawn](/img/season1/2024-07-03_00.03.39.png)
+![pic](/img/season2/season2.png)
 
 :::info
 If you're just here to join the Creative plots server you can join without applying! It's public! The IP is `survival-pi.com`.
@@ -23,7 +23,7 @@ You are creative? You enjoy building and meeting new friends? We'd be happy to w
 | IP | `survival-pi.com` |
 | Version | 1.21 | 
 | Type | Vanilla-like, Building and Redstone |
-| Since | 2020 |
+| Since | September 2020 |
 | Latest Season | [Season 2](../season2/season2.md)
 | Proximity Voicechat | ✅ |
 | No plot claming | ✅ |
@@ -52,7 +52,7 @@ Please follow our application format, so our community members can more easily r
 
 5. What are some of your goals for this server and what do you do in a typical play session?
 
-6. What is your favorite aspect of Minecraft?
+6. Have you played on an SMP before? If yes, what was the reason you left and chose to apply to this one?
 
 7. Send some pictures of your creations if you have. Redstone, structures, bases, anything :)
 ```
