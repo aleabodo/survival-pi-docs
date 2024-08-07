@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #EDD1C5;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Add "sidebar_class_name: hidden" to the top section of a page to hide it from the sidebar */ 
+.hidden {
+  display: none !important;
+}
