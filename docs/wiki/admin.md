@@ -41,7 +41,7 @@ Copy the commands below by hovering over them and clicking the copy button.
             @PLAYER, welcome to the server! 🥳 You can read [this](https://survival-pi.com/docs/season2) for catching up if you want. Looking forward to meeting you in the game soon! 😊
             ```
 
-## Commands
+## Minecraft Commands
 
 ### Check player logs for x-ray
 
@@ -49,10 +49,8 @@ If somebody wants to cheat they will always find a way. However, x-ray is the fi
 
 - `/co l u:USER t:30d b:deepslate_diamond_ore`\
 Go in spectator with `/gm 3`. Click on the coords to teleport to the location.
-
 - `/co l u:USER t:30d b:deepslate_diamond_ore r:20`\
 Radius check.
-
 - `/co i`\
 More [here](./Features/coreprotect.md).
 
@@ -62,14 +60,10 @@ Please be careful with running these command! They can do irreversible damage an
 
 - `/co rollback YoloBurny t:2h radius:20 b:shulker_box action:-block`\
 Rollback of YoloBurny removing a shulker box in a radius of 20 blocks within 2h of it happening.
-
 - `/co l u:#tnt r:20`
-
--`/co l u:#fire r:20`
-
+- `/co l u:#fire r:20`
 - `/irp restore`\
 Rollback play inventory backups. Inventory backups on join and on death. Make sure to 100% confirm that the player is eligible for a rollback (i.e., server lagg) and not just died because of their own fault.
-
 
 ### Open inventories
 
@@ -80,34 +74,23 @@ Rollback play inventory backups. Inventory backups on join and on death. Make su
 When banning a player permanently, please also remove them from the Whitelist!
 
 - `/ban PLAYER REASON`
-
-`/tempban PLAYER 3d`
-
-`/kick PLAYER`
-
-`/whitelist remove PLAYER`
-
-`/whitelist add PLAYER`
+- `/tempban PLAYER 3d`
+- `/kick PLAYER`
+- `/whitelist remove PLAYER`
+- `/whitelist add PLAYER`
 
 ### Miscellaneous
 
-`/spark profiler report/start/stop` Open a detailed browser page with a review of all things that lag a server. Please stop the profiler after you don't need it anymore.
-
-`/tp PLAYER` Go in gm 3 first! 
-
-`/whois PLAYER` Show approximate location of the player. Based on IP address.
-
-`/allpvp <on|off>`\
+- `/spark profiler report/start/stop` Open a detailed browser page with a review of all things that lag a server. Please stop the profiler after you don't need it anymore.
+- `/tp PLAYER` Go in gm 3 first! 
+- `/whois PLAYER` Show approximate location of the player. Based on IP address.
+- `/allpvp <on|off>`\
 Turn off PvP for everyone.
-
-`/discord linked <Name/UUID/DiscordID/DiscordTag>`\
+- `/discord linked <Name/UUID/DiscordID/DiscordTag>`\
 See whether player linked their account.
-
-`/discord link <Name/UUID> <DiscordID/DiscordTag>`\
+- `/discord link <Name/UUID> <DiscordID/DiscordTag>`\
 Manually link a player. You usually don't need to use this if they can link themselves.
-
-`/discord unlink <Name/UUID/DiscordID/DiscordTag>`\
+- `/discord unlink <Name/UUID/DiscordID/DiscordTag>`\
 Unlink user. Sometimes there are issues caused by username changes when this might be necessary.
-
-`/discord resync`\
+- `/discord resync`\
 Somebody bought a rank but doesn't have it in discord? Use this to sync group/rank.
