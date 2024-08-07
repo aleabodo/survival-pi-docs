@@ -18,4 +18,4 @@ The economy is managed by the community. Outside of the very small spawn-protect
 
 ## Currency
 
-This season, we're a little bit more flexible about the currency. **The owner of the shop decides what they want as a currency.** Most people like to use **Diamonds** or the less inflationary and fractional currency **Bitcoins**. You can invest in Bitcoin with the Villager at Spawn. ☺️
+This season, we're a little bit more flexible about the currency. **The owner of the shop decides what they want as a currency.** Most people like to use **Diamonds** or the less inflationary and fractional currency **Bitcoins**. You can invest in Bitcoin with the Villager at Spawn. Or you just create your own currency. ☺️
