@@ -34,9 +34,12 @@ Copy the commands below by hovering over them and clicking the copy button.
             ```
             /whitelist add PLAYER
             ```
+            :::note
+            If do this step please quickly write in the admin channel so we know we don't have to do that anymore.
+            :::
         5. Welcome them in the General chat:
             ```
-            @PLAYER, welcome to the server! 🥳 You can read [this](https://survival-pi.com/docs/season2) for catching up if you want. Looking forward to meeting you in the game soon! 😊
+            @PLAYER, welcome to the server! 🥳 You can read [this](https://survival-pi.com/docs/season2) for catching up if you want. You'll be added to the Whitelist shortly. Looking forward to meeting you in the game soon! 😊
             ```
 
 ## Minecraft Commands
@@ -45,8 +48,10 @@ Copy the commands below by hovering over them and clicking the copy button.
 
 If somebody wants to cheat they will always find a way. However, x-ray is the first and easiest cheat they will try to use. Therefore, we can more easily filter out new players by having anti-x-ray intentionally disabled and checking on them once in a while. It's really easy to do and fun detective work too 😊
 
-- `/co l u:USER t:30d b:deepslate_diamond_ore`\
-Go in spectator with `/gm 3`. Click on the coords to teleport to the location.
+- Go in spectator with `/gm 3`. Run the command below. Click on the coords to teleport to the location.
+    ```
+    /co l u:USER t:30d b:deepslate_diamond_ore
+    ```
 - `/co l u:USER t:30d b:deepslate_diamond_ore r:20`\
 Radius check.
 - `/co i`\
@@ -56,8 +61,10 @@ More [here](./Features/coreprotect.md).
 
 Please be careful with running these command! They can do irreversible damage and chaos when executed wrongly.
 
-- `/co rollback YoloBurny t:2h radius:20 b:shulker_box action:-block`\
-Rollback of YoloBurny removing a shulker box in a radius of 20 blocks within 2h of it happening.
+- Rollback of YoloBurny removing a shulker box in a radius of 20 blocks within 2h of it happening:
+    ```
+    /co rollback YoloBurny t:2h radius:20 b:shulker_box action:-block
+    ```
 - `/co l u:#tnt r:20`
 - `/co l u:#fire r:20`
 - `/irp restore`\
