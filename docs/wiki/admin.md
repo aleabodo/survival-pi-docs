@@ -37,7 +37,7 @@ Copy the commands below by hovering over them and clicking the copy button.
             :::note
             If do this step please quickly write in the admin channel so we know we don't have to do that anymore.
             :::
-        5. Welcome them in the General chat:
+        5. Welcome them in the General chat with something like this:
             ```
             @PLAYER, welcome to the server! 🥳 You can read [this](https://survival-pi.com/docs/season2) for catching up if you want. You'll be added to the Whitelist shortly. Looking forward to meeting you in the game soon! 😊
             ```
