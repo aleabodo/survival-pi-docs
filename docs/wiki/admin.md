@@ -13,9 +13,9 @@ Copy the commands below by hovering over them and clicking the copy button.
 :::
 
 1. **Respond** to the applicant:
-```
-Thanks for applying! We’ll vote internally and update you by tomorrow.
-```
+    ```
+    Thanks for applying! We’ll vote internally and update you by tomorrow.
+    ```
 2. Create a **poll**:
     1. Right-click the application and copy the message link.
     2. Run the following command in the *application-discussion* channel. Replace *MESSAGE-LINK*.
