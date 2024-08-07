@@ -16,12 +16,10 @@ Copy the commands below by hovering over them and clicking the copy button.
     ```
     Thanks for applying! We’ll vote internally and update you by tomorrow.
     ```
-2. Create a **poll**:
-    1. Right-click the application and copy the message link.
-    2. Run the following command in the *application-discussion* channel. Replace *MESSAGE-LINK*.
-        ```
-        /timepoll question:Application: MESSAGE-LINK time:24h maxchoices:1 answer-1::white_check_mark: answer-2::x: type:Hidden (Buttons)
-        ```
+2. Run the following **poll** command in the *application-discussion* channel. Replace *MESSAGE-LINK* with the message link of the application.
+    ```
+    /timepoll question:Application: MESSAGE-LINK time:24h maxchoices:1 answer-1::white_check_mark: answer-2::x: type:Hidden (Buttons)
+    ```
 3. Create a **discussion thread** by right-clicking the poll and selecting *Create Thread*.\
 4. **After the poll:**
     - If rejected, inform the applicant.
