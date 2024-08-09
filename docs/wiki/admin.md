@@ -44,7 +44,7 @@ Copy the commands below by hovering over them and clicking the copy button.
 
 ## Minecraft Commands
 
-### Check player logs for x-ray
+### CoreProtect logs
 
 If somebody wants to cheat they will always find a way. However, x-ray is the first and easiest cheat they will try to use. Therefore, we can more easily filter out new players by having anti-x-ray intentionally disabled and checking on them once in a while. It's really easy to do and fun detective work too 😊
 
@@ -57,9 +57,29 @@ Radius check.
 - `/co i`\
 More [here](./Features/coreprotect.md).
 
+### Spectate players
+
+- `/spectate PLAYER`
+- `/spectate leave`
+
+### Spartan Anti-Cheat
+
+- `/spartan info PLAYER`\
+Opens a GUI menu with a player's violations info.
+- `/spartan menu`\
+Opens the main gui menu.
+- `/spartan warn PLAYER REASON`\
+Warns a player with a reason.
+- `/spartan kick PLAYER REASON`\
+Kicks a player and broadcasts a message.
+- `/spartan notifications TICK-FREQUENCY`\
+Toggles the notification system. When notification frequency is less than 100 ticks, which is worth 5 seconds, Spartan will pick Detection Notifications. If it is 100 ticks or greater, it will pick Detection Notifications along with Suspicion Notifications.
+
 ### Rollbacks
 
-Please be careful with running these command! They can do irreversible damage and chaos when executed wrongly.
+:::danger
+Please be careful with running these command! They can do irreversible damage and chaos when executed wrongly. When something goes terribly wrong, don't attempt to fix it and let me know!
+:::
 
 - Rollback of YoloBurny removing a shulker box in a radius of 20 blocks within 2h of it happening:
     ```
@@ -72,11 +92,20 @@ Rollback play inventory backups. Inventory backups on join and on death. Make su
 
 ### Open inventories
 
-- `/openender /openinv`
+- `/openender`
+- `/openinv`
+
+### Dynmap
+
+- `/dynmap hide`
+- `/dynmap show`\
+Don't forget to run this command after you're done with your admin duties!
 
 ### Whitelist / Ban
 
+:::warning
 When banning a player permanently, please also remove them from the Whitelist!
+:::
 
 - `/ban PLAYER REASON`
 - `/tempban PLAYER 3d`
@@ -87,7 +116,6 @@ When banning a player permanently, please also remove them from the Whitelist!
 ### Miscellaneous
 
 - `/spark profiler report/start/stop` Open a detailed browser page with a review of all things that lag a server. Please stop the profiler after you don't need it anymore.
-- `/tp PLAYER` Go in gm 3 first! 
 - `/whois PLAYER` Show approximate location of the player. Based on IP address.
 - `/allpvp <on|off>`\
 Turn off PvP for everyone.
