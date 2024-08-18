@@ -135,9 +135,10 @@ const config = {
             ],
           },
           {
-            href: 'https://survival-pi.tebex.io/',
-            label: 'Donate',
-            position: 'right',
+            type: 'docSidebar',
+            sidebarId: 'donate',
+            position: 'left',
+            label: 'Donate'
           },
           {
             href: 'https://github.com/aleabodo/survival-pi-docs',
