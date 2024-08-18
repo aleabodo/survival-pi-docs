@@ -22,3 +22,4 @@ sidebar_position: 2
 - [Chest Protection](./chestprotect.md)
 - [Official Modpack](./modpack.md)
 - [CoreProtect Inspection](./coreprotect.md)
+- [Clickable Signs With Link](./signs.md)
