@@ -1,6 +1,6 @@
 # Proximity Voicechat
 
-We use a [proximity voice chat mod](pathname://https://modrinth.com/plugin/simple-voice-chat) that lets you speak to other player in the game. We recommend you install the mod with [our modpack](./modpack.md) as it's much quicker to install and update. If you don't want to use the modpack, you can of course also install the mod yourself.
+We use a [proximity voice chat mod](pathname://https://modrinth.com/plugin/simple-voice-chat) that lets you speak to other player in the game. We recommend you install the mod with [our modpack](../modpack.md) as it's much quicker to install and update. If you don't want to use the modpack, you can of course also install the mod yourself.
 
 ## Usage
 

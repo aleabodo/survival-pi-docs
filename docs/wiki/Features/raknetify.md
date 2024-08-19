@@ -1,6 +1,6 @@
 # Raknetify
 
-We have a mod called [Raknetify](pathname://https://github.com/RelativityMC/raknetify#how-to-use-it) in our [modpack](./modpack.md) that lets you improve your connection and ping significantly. If you're from a different continent like the USA and usually have a bad ping, you can try this solution to improve it.
+We have a mod called [Raknetify](pathname://https://github.com/RelativityMC/raknetify#how-to-use-it) in our [modpack](../modpack.md) that lets you improve your connection and ping significantly. If you're from a different continent like the USA and usually have a bad ping, you can try this solution to improve it.
 
 ## Usage
 
