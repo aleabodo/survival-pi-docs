@@ -1,6 +1,6 @@
 # Modpack
 
-We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](./vc.md), which we use extensively, a lot easier for everybody.
+We use and maintain a modpack for the server that adds some minimal quality-of-life features and includes a lot of performance mods to make the game run better. We mainly have this modpack to make the installation and updating of the [Proximity Voicechat](./Features/vc.md), which we use extensively, a lot easier for everybody.
 
 The modpack is not required to join the server but it is recommened to at least install the [Proximity Voicechat mod](pathname://https://modrinth.com/plugin/simple-voice-chat) as we all use it.
 
@@ -18,8 +18,8 @@ If you want to update the modpack simply click *Update* on the top-right of the 
 
 ## Modpack Features
 
-- [Proximity Voicechat](./vc.md)
-- Improve your ping with [Raknet](./raknetify.md)
+- [Proximity Voicechat](./Features/vc.md)
+- Improve your ping with [Raknet](./Features/raknetify.md)
 - [Litematica](pathname://https://litematica.org/)
 - View the lightlevel by pressing `f8`. Configure it with `f7`. Orange means mobs can spawn at night. Red means mobs can always spawn. 
 - Make beacon beams disappear by placing a clear glass block on top of the beacon. Colored glass will still work as usual.
@@ -38,7 +38,7 @@ Some of the mods might be incompatible with Mac. A known one (for now, might be 
 
 ### My voice chat doesn't work.
 
-If you're on Mac, this is a known problem. There are workarounds but I won't provide support for it because it's not easy to fix. Look it up on Google. If you're not on Mac, you probably still have push-to-talk on. You can disable it in the voicechat settings (press `v`). More info [here](./vc.md). You might also have the wrong microphone or headphone connected. You can also change that in the settings. If all of that doesn't work, try re-joining and ask your friend to also rejoin.
+If you're on Mac, this is a known problem. There are workarounds but I won't provide support for it because it's not easy to fix. Look it up on Google. If you're not on Mac, you probably still have push-to-talk on. You can disable it in the voicechat settings (press `v`). More info [here](./Features/vc.md). You might also have the wrong microphone or headphone connected. You can also change that in the settings. If all of that doesn't work, try re-joining and ask your friend to also rejoin.
 
 ### Do I need the modpack to play on the server?
 
