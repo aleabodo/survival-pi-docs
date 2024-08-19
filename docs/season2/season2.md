@@ -14,6 +14,8 @@ sidebar_position: 1
 | Minister of Spawn decoration |                                            |
 | Minister of Nether highway   | BuildingBrute                              |
 | Minister of currency         | ImagineLegend                              |
+| Modpack                      | [Download](../wiki/modpack.md)             |
+| Rules                        | [Read if you're new to the server](../wiki/rules.md) |
 
 Season 2 has started after a fun 3.5 years of [Season 1](../season1/season1.md)! This season we voted on various things and decided to do things a little differently.
 
@@ -24,7 +26,6 @@ Season 2 has started after a fun 3.5 years of [Season 1](../season1/season1.md)!
 - The **economy** is also managed by the community. Click [here](./shopping_district.md) to learn more.
 - We decided that we will build **ugly undecorated farms** at least **2000 blocks out**, so everyone has more unobstructed space to build their bases.
 - To learn more about server features and commands, check out [our wiki](../wiki/Features/features.md).
-- Read the [server rules](../wiki/rules.md) if you're new to the server.
 
 ## Made a base? Have something cool to share?
 
