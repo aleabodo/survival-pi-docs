@@ -9,7 +9,7 @@ sidebar_label: Season 1
 
 :::note
 
-This season was finished on June 30th 2024. World download is available for community members only.
+This season was finished on June 30th 2024. [World download](https://discord.com/channels/879093616360964096/879774784609722409/1259024027901628520) is available for community members only.
 
 :::
 
@@ -24,6 +24,7 @@ This season was finished on June 30th 2024. World download is available for comm
 | Total players         | 126 (Banned players and player that never really played are excluded) |
 | Hardware then         | Raspberry-Pi 4B, 8 GB Ram                  |
 | Hardware now          | Intel i5-10100, 32 GB Ram, 500 GB NVMe SSD |
+| World download        | [Download from Discord](https://discord.com/channels/879093616360964096/879774784609722409/1259024027901628520) (community members only) |
 
 Season One started as a small server for a small group of friends to play some Minecraft on. We hosted it on a *Raspberry-Pi* back in the day (that's why the name Survival-*Pi*). Eventually, we decided to invite some more people to the server, some of them still members of this community. We met really nice people and built amazing bases together and collaborated on mega projects like our Nether highway or the pyramid at Spawn. We found a lot of new friends on the way and had a lot of fun! 
 
