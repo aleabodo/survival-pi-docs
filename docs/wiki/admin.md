@@ -24,19 +24,13 @@ Copy the commands below by hovering over them and clicking the copy button.
 4. **After the poll:**
     - If rejected, inform the applicant.
     - If accepted:
-        1. Delete the thread by right-clicking it.
-        2. Delete the poll with the following command. Replace *POLL-ID* with the id of the poll you can find at the very bottom of the poll.
-            ```
-            /deletepoll id:POLL-ID
-            ```
+        1. Delete the thread by right-clicking it (On your phone *Edit Thread*).
+        2. Delete the poll message from the application channel.
         3. Add them to Discord by clicking their profile and assigning the *Member* role.
-        4. Whitelist them with the in-game command: 
+        4. Whitelist them: 
             ```
             /whitelist add PLAYER
             ```
-            :::note
-            If do this step please quickly write in the admin channel so we know we don't have to do that anymore.
-            :::
         5. Welcome them in the General chat with something like this:
             ```
             @PLAYER, welcome to the server! 🥳 You can read [this](https://survival-pi.com/docs/season2) for catching up if you want. You'll be added to the Whitelist shortly. Looking forward to meeting you in the game soon! 😊
