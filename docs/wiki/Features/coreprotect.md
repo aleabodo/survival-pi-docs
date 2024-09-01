@@ -1,4 +1,4 @@
-# CoreProtect Inspection#
+# CoreProtect Inspection
 
 This command lets you inspect the history of every interaction in the world and see who griefed your base.
 
